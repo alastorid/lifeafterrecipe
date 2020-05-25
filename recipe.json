@@ -1,0 +1,5126 @@
+[
+  {
+    "name": "果醬",
+    "recipes": [
+      "水果"
+    ],
+    "recipeObj": {
+      "水果": "4"
+    },
+    "usages": [
+      "無特殊屬性"
+    ],
+    "usageObj": {
+      "無特殊屬性": "充飢"
+    },
+    "image": "https://www.dropbox.com/s/91ctj7112h1vgy7/IMG_0260.png?raw=1"
+  },
+  {
+    "name": "蜜糖",
+    "recipes": [
+      "蜂蜜"
+    ],
+    "recipeObj": {
+      "蜂蜜": "4"
+    },
+    "usages": [
+      "回復血量"
+    ],
+    "usageObj": {
+      "回復血量": "回復血量"
+    },
+    "image": "https://www.dropbox.com/s/nu5qgiitm8psy2u/IMG_0266.png?raw=1"
+  },
+  {
+    "name": "純椰汁",
+    "recipes": [
+      "椰子"
+    ],
+    "recipeObj": {
+      "椰子": "4"
+    },
+    "usages": [
+      "無特殊屬性"
+    ],
+    "usageObj": {
+      "無特殊屬性": "充飢"
+    },
+    "image": "https://www.dropbox.com/s/2rk6lasw38o7345/IMG_0206.PNG?raw=1"
+  },
+  {
+    "name": "果味冰棒",
+    "recipes": [
+      "水果",
+      "冰塊"
+    ],
+    "recipeObj": {
+      "水果": "1",
+      "冰塊": "3"
+    },
+    "usages": [
+      "改變體溫"
+    ],
+    "usageObj": {
+      "改變體溫": "降低體溫"
+    },
+    "image": "https://www.dropbox.com/s/mtsuh15o4lglgc1/IMG_0342.png?raw=1"
+  },
+  {
+    "name": "水果蜜餞",
+    "recipes": [
+      "水果",
+      "蜂蜜"
+    ],
+    "recipeObj": {
+      "水果": "3",
+      "蜂蜜": "1"
+    },
+    "usages": [
+      "無特殊屬性"
+    ],
+    "usageObj": {
+      "無特殊屬性": "充飢"
+    },
+    "image": "https://www.dropbox.com/s/idae4jc49d10px6/IMG_0300.png?raw=1"
+  },
+  {
+    "name": "水果牛奶",
+    "recipes": [
+      "水果",
+      "牛奶"
+    ],
+    "recipeObj": {
+      "水果": "3",
+      "牛奶": "1"
+    },
+    "usages": [
+      "回復健康值"
+    ],
+    "usageObj": {
+      "回復健康值": "大幅回復健康值"
+    },
+    "image": "https://www.dropbox.com/s/1ylryvze7od9w1s/IMG_0298.png?raw=1"
+  },
+  {
+    "name": "牛奶糖",
+    "recipes": [
+      "蜂蜜",
+      "牛奶"
+    ],
+    "recipeObj": {
+      "蜂蜜": "2",
+      "牛奶": "2"
+    },
+    "usages": [
+      "移速加成"
+    ],
+    "usageObj": {
+      "移速加成": "提升移動速度"
+    },
+    "image": "https://www.dropbox.com/s/95o2i9fq9ywbhsi/IMG_0223.PNG?raw=1"
+  },
+  {
+    "name": "果汁",
+    "recipes": [
+      "冰塊",
+      "水果"
+    ],
+    "recipeObj": {
+      "冰塊": "2",
+      "水果": "2"
+    },
+    "usages": [
+      "無特殊屬性"
+    ],
+    "usageObj": {
+      "無特殊屬性": "飲料"
+    },
+    "image": "https://www.dropbox.com/s/k7py1pfhsoc77t8/IMG_0339.png?raw=1"
+  },
+  {
+    "name": "蜂糖水",
+    "recipes": [
+      "冰塊",
+      "蜂蜜"
+    ],
+    "recipeObj": {
+      "冰塊": "3",
+      "蜂蜜": "1"
+    },
+    "usages": [
+      "改變體溫",
+      "去除感冒"
+    ],
+    "usageObj": {
+      "改變體溫": "提升體溫",
+      "去除感冒": "去除感冒"
+    },
+    "image": "https://www.dropbox.com/s/as5gxutw1k94x4q/IMG_0338.png?raw=1"
+  },
+  {
+    "name": "蛋卷",
+    "recipes": [
+      "麵粉",
+      "禽蛋"
+    ],
+    "recipeObj": {
+      "麵粉": "3",
+      "禽蛋": "1"
+    },
+    "usages": [
+      "無特殊屬性"
+    ],
+    "usageObj": {
+      "無特殊屬性": "充飢"
+    },
+    "image": "https://www.dropbox.com/s/ucuryntv43g7yd0/IMG_0214.PNG?raw=1"
+  },
+  {
+    "name": "椰子凍",
+    "recipes": [
+      "冰塊",
+      "椰子"
+    ],
+    "recipeObj": {
+      "冰塊": "2",
+      "椰子": "2"
+    },
+    "usages": [
+      "改變體溫"
+    ],
+    "usageObj": {
+      "改變體溫": "降低體溫"
+    },
+    "image": "https://www.dropbox.com/s/0zddgm0gtd6c55l/IMG_0232.PNG?raw=1"
+  },
+  {
+    "name": "椰汁水果撈",
+    "recipes": [
+      "水果",
+      "椰子"
+    ],
+    "recipeObj": {
+      "水果": "2",
+      "椰子": "2"
+    },
+    "usages": [
+      "游泳速度"
+    ],
+    "usageObj": {
+      "游泳速度": "提升游泳速度"
+    },
+    "image": "https://www.dropbox.com/s/824rgy2ef5h6je9/IMG_0234.PNG?raw=1"
+  },
+  {
+    "name": "奶香玉米布丁",
+    "recipes": [
+      "牛奶",
+      "玉米"
+    ],
+    "recipeObj": {
+      "牛奶": "2",
+      "玉米": "2"
+    },
+    "usages": [
+      "移速加成"
+    ],
+    "usageObj": {
+      "移速加成": "提升移動速度"
+    },
+    "image": "https://www.dropbox.com/s/mvxgc0iocfedysk/IMG_0368.png?raw=1"
+  },
+  {
+    "name": "水果派",
+    "recipes": [
+      "水果",
+      "蜂蜜",
+      "麵粉"
+    ],
+    "recipeObj": {
+      "水果": "2",
+      "蜂蜜": "1",
+      "麵粉": "1"
+    },
+    "usages": [
+      "傷害加成"
+    ],
+    "usageObj": {
+      "傷害加成": "大幅提升對人型怪物傷害"
+    },
+    "image": "https://www.dropbox.com/s/874bivixo8resos/IMG_0315.png?raw=1"
+  },
+  {
+    "name": "葡式蛋塔",
+    "recipes": [
+      "牛奶",
+      "蜂蜜",
+      "麵粉"
+    ],
+    "recipeObj": {
+      "牛奶": "1",
+      "蜂蜜": "1",
+      "麵粉": "2"
+    },
+    "usages": [
+      "採集暴擊"
+    ],
+    "usageObj": {
+      "採集暴擊": "大幅提升挖掘暴擊"
+    },
+    "image": "https://www.dropbox.com/s/0tzdv4ss8xkma2s/IMG_0314.png?raw=1"
+  },
+  {
+    "name": "牛奶布丁",
+    "recipes": [
+      "牛奶",
+      "蜂蜜",
+      "冰塊"
+    ],
+    "recipeObj": {
+      "牛奶": "2",
+      "蜂蜜": "1",
+      "冰塊": "1"
+    },
+    "usages": [
+      "改變體溫"
+    ],
+    "usageObj": {
+      "改變體溫": "降低體溫"
+    },
+    "image": "https://www.dropbox.com/s/jnfqsxybb1wttd9/IMG_0341.png?raw=1"
+  },
+  {
+    "name": "奶油濃湯",
+    "recipes": [
+      "肉",
+      "蔬菜",
+      "牛奶"
+    ],
+    "recipeObj": {
+      "肉": "2",
+      "蔬菜": "1",
+      "牛奶": "1"
+    },
+    "usages": [
+      "改變體溫"
+    ],
+    "usageObj": {
+      "改變體溫": "大幅度提高體溫"
+    },
+    "image": "https://www.dropbox.com/s/f7rskms1wzrus1r/IMG_0296.png?raw=1"
+  },
+  {
+    "name": "椰奶雪花糕",
+    "recipes": [
+      "麵粉",
+      "牛奶",
+      "椰子"
+    ],
+    "recipeObj": {
+      "麵粉": "2",
+      "牛奶": "1",
+      "椰子": "1"
+    },
+    "usages": [
+      "熟練度獲取"
+    ],
+    "usageObj": {
+      "熟練度獲取": "提升採集熟練度獲取效率"
+    },
+    "image": "https://www.dropbox.com/s/phcgi9gcqlu1hdg/IMG_0230.PNG?raw=1"
+  },
+  {
+    "name": "水果椰奶",
+    "recipes": [
+      "水果",
+      "牛奶",
+      "椰子"
+    ],
+    "recipeObj": {
+      "水果": "2",
+      "牛奶": "1",
+      "椰子": "1"
+    },
+    "usages": [
+      "游泳速度"
+    ],
+    "usageObj": {
+      "游泳速度": "提升游泳速度"
+    },
+    "image": "https://www.dropbox.com/s/ljahsf20941vds6/IMG_0381.png?raw=1"
+  },
+  {
+    "name": "蛋黃玉米酥",
+    "recipes": [
+      "禽蛋",
+      "麵粉",
+      "玉米"
+    ],
+    "recipeObj": {
+      "禽蛋": "1",
+      "麵粉": "2",
+      "玉米": "1"
+    },
+    "usages": [
+      "生命上限"
+    ],
+    "usageObj": {
+      "生命上限": "提升生命上限"
+    },
+    "image": "https://www.dropbox.com/s/cdquh4dj8vowswj/IMG_0401.png?raw=1"
+  },
+  {
+    "name": "水果蛋糕",
+    "recipes": [
+      "蜂蜜",
+      "牛奶",
+      "水果",
+      "麵粉",
+      "特殊備註"
+    ],
+    "recipeObj": {
+      "蜂蜜": "1",
+      "牛奶": "1",
+      "水果": "1",
+      "麵粉": "1",
+      "特殊備註": "需要找NPC夏冬涼購買"
+    },
+    "usages": [
+      "移速加成"
+    ],
+    "usageObj": {
+      "移速加成": "長時間提高移動速度"
+    },
+    "image": "https://www.dropbox.com/s/hqa5hklaktikvmv/IMG_0324.png?raw=1"
+  },
+  {
+    "name": "水果冰沙",
+    "recipes": [
+      "水果",
+      "蜂蜜",
+      "冰塊"
+    ],
+    "recipeObj": {
+      "水果": "2",
+      "蜂蜜": "1",
+      "冰塊": "1"
+    },
+    "usages": [
+      "改變體溫"
+    ],
+    "usageObj": {
+      "改變體溫": "大幅降低體溫"
+    },
+    "image": "https://www.dropbox.com/s/uiamampatc7yheg/IMG_0340.png?raw=1"
+  },
+  {
+    "name": "草莓果凍",
+    "recipes": [
+      "草莓",
+      "冰塊",
+      "牛奶",
+      "特殊備註"
+    ],
+    "recipeObj": {
+      "草莓": "2",
+      "冰塊": "1",
+      "牛奶": "1",
+      "特殊備註": "需要找NPC夏冬涼購買"
+    },
+    "usages": [
+      "移速加成",
+      "暴擊率"
+    ],
+    "usageObj": {
+      "移速加成": "長時間提高移動速度",
+      "暴擊率": "提升暴擊率"
+    },
+    "image": "https://www.dropbox.com/s/5wegbx5so6mgv2e/IMG_0348.png?raw=1"
+  },
+  {
+    "name": "草莓優酪乳冰",
+    "recipes": [
+      "蜂蜜",
+      "牛奶",
+      "冰塊",
+      "草莓"
+    ],
+    "recipeObj": {
+      "蜂蜜": "1",
+      "牛奶": "1",
+      "冰塊": "1",
+      "草莓": "1"
+    },
+    "usages": [
+      "移速加成"
+    ],
+    "usageObj": {
+      "移速加成": "長時間提高移動速度"
+    },
+    "image": "https://www.dropbox.com/s/hhwjjlt8c2b1dy9/IMG_0347.png?raw=1"
+  },
+  {
+    "name": "莓莓芝士蛋糕",
+    "recipes": [
+      "藍莓",
+      "草莓",
+      "牛奶",
+      "麵粉"
+    ],
+    "recipeObj": {
+      "藍莓": "1",
+      "草莓": "1",
+      "牛奶": "1",
+      "麵粉": "1"
+    },
+    "usages": [
+      "回復血量"
+    ],
+    "usageObj": {
+      "回復血量": "持續回復血量"
+    },
+    "image": "https://www.dropbox.com/s/hanqoszra74ysmp/IMG_0346.png?raw=1"
+  },
+  {
+    "name": "太陽果燉牛奶蛋",
+    "recipes": [
+      "禽蛋",
+      "牛奶",
+      "南瓜"
+    ],
+    "recipeObj": {
+      "禽蛋": "2",
+      "牛奶": "1",
+      "南瓜": "1"
+    },
+    "usages": [
+      "回復血量"
+    ],
+    "usageObj": {
+      "回復血量": "持續回復血量"
+    },
+    "image": "https://www.dropbox.com/s/3vxm5blqt34zlvx/IMG_0397.png?raw=1"
+  },
+  {
+    "name": "藍莓椰絲脆",
+    "recipes": [
+      "麵粉",
+      "藍莓",
+      "椰子"
+    ],
+    "recipeObj": {
+      "麵粉": "1",
+      "藍莓": "2",
+      "椰子": "1"
+    },
+    "usages": [
+      "採集速度",
+      "熟練度獲取"
+    ],
+    "usageObj": {
+      "採集速度": "提升各項採集速度",
+      "熟練度獲取": "提升採集熟練度獲取效率"
+    },
+    "image": "https://www.dropbox.com/s/94oejpaogfsew26/IMG_0222.PNG?raw=1"
+  },
+  {
+    "name": "黃金玉米盞",
+    "recipes": [
+      "禽蛋",
+      "胡蘿蔔",
+      "玉米"
+    ],
+    "recipeObj": {
+      "禽蛋": "1",
+      "胡蘿蔔": "1",
+      "玉米": "2"
+    },
+    "usages": [
+      "採集速度"
+    ],
+    "usageObj": {
+      "採集速度": "提升所有採集速度"
+    },
+    "image": "https://www.dropbox.com/s/x5juhvurlpfvky9/IMG_0400.png?raw=1"
+  },
+  {
+    "name": "蓮蓉雙黃月餅",
+    "recipes": [
+      "特製麵粉",
+      "蓮蓉和鹹蛋黃",
+      "特殊備註"
+    ],
+    "recipeObj": {
+      "特製麵粉": "2",
+      "蓮蓉和鹹蛋黃": "2",
+      "特殊備註": "2019中秋節限定"
+    },
+    "usages": [
+      "採集速度"
+    ],
+    "usageObj": {
+      "採集速度": "短時間內可以提升砍伐速度"
+    },
+    "image": "https://www.dropbox.com/s/77nccputte4qc4l/coming_soon.png?raw=1"
+  },
+  {
+    "name": "冰皮椰蓉月餅",
+    "recipes": [
+      "特製麵粉",
+      "糯米粉和椰蓉",
+      "特殊備註"
+    ],
+    "recipeObj": {
+      "特製麵粉": "2",
+      "糯米粉和椰蓉": "2",
+      "特殊備註": "2019中秋節限定"
+    },
+    "usages": [
+      "採集速度"
+    ],
+    "usageObj": {
+      "採集速度": "短時間內可以提升挖礦速度"
+    },
+    "image": "https://www.dropbox.com/s/77nccputte4qc4l/coming_soon.png?raw=1"
+  },
+  {
+    "name": "五仁火腿月餅",
+    "recipes": [
+      "特製麵粉",
+      "果仁和火腿",
+      "特殊備註"
+    ],
+    "recipeObj": {
+      "特製麵粉": "2",
+      "果仁和火腿": "2",
+      "特殊備註": "2019中秋節限定"
+    },
+    "usages": [
+      "回復血量"
+    ],
+    "usageObj": {
+      "回復血量": "持續恢復生命"
+    },
+    "image": "https://www.dropbox.com/s/77nccputte4qc4l/coming_soon.png?raw=1"
+  },
+  {
+    "name": "芝麻豆沙月餅",
+    "recipes": [
+      "特製麵粉",
+      "黑芝麻和豆沙",
+      "特殊備註"
+    ],
+    "recipeObj": {
+      "特製麵粉": "2",
+      "黑芝麻和豆沙": "2",
+      "特殊備註": "2019中秋節限定"
+    },
+    "usages": [
+      "暴擊率"
+    ],
+    "usageObj": {
+      "暴擊率": "提升暴擊"
+    },
+    "image": "https://www.dropbox.com/s/77nccputte4qc4l/coming_soon.png?raw=1"
+  },
+  {
+    "name": "消暑水果冰粥",
+    "recipes": [
+      "大米",
+      "水果",
+      "冰塊"
+    ],
+    "recipeObj": {
+      "大米": "2",
+      "水果": "1",
+      "冰塊": "1"
+    },
+    "usages": [
+      "抗惡劣環境",
+      "採集速度",
+      "移速加成"
+    ],
+    "usageObj": {
+      "抗惡劣環境": "提升沙塵暴抵抗力",
+      "採集速度": "提升挖掘速度",
+      "移速加成": "提升移動速度"
+    },
+    "image": "https://www.dropbox.com/s/984q5c3ra13aksr/IMG_0350.png?raw=1"
+  },
+  {
+    "name": "牛奶蒸米糕",
+    "recipes": [
+      "牛奶",
+      "大米",
+      "調料"
+    ],
+    "recipeObj": {
+      "牛奶": "2",
+      "大米": "1",
+      "調料": "1"
+    },
+    "usages": [
+      "回復血量",
+      "採集暴擊"
+    ],
+    "usageObj": {
+      "回復血量": "持續回復血量",
+      "採集暴擊": "提升挖掘資源暴擊率"
+    },
+    "image": "https://www.dropbox.com/s/8066p0uomhfqb7e/IMG_0475.png?raw=1"
+  },
+  {
+    "name": "紅糖糍粑",
+    "recipes": [
+      "大米",
+      "蜂蜜"
+    ],
+    "recipeObj": {
+      "大米": "2",
+      "蜂蜜": "2"
+    },
+    "usages": [
+      "抗惡劣環境",
+      "採集暴擊"
+    ],
+    "usageObj": {
+      "抗惡劣環境": "提升沙塵暴抵抗力",
+      "採集暴擊": "提升挖礦資源暴擊率"
+    },
+    "image": "https://www.dropbox.com/s/v3n2e9voq9yvaa8/IMG_0192.PNG?raw=1"
+  },
+  {
+    "name": "酒釀圓子",
+    "recipes": [
+      "大米",
+      "麵粉",
+      "調料"
+    ],
+    "recipeObj": {
+      "大米": "2",
+      "麵粉": "1",
+      "調料": "1"
+    },
+    "usages": [
+      "抗惡劣環境",
+      "採集暴擊",
+      "射程增加"
+    ],
+    "usageObj": {
+      "抗惡劣環境": "提升沼澤抵抗力",
+      "採集暴擊": "提升砍樹資源暴擊率",
+      "射程增加": "提升射程"
+    },
+    "image": "https://www.dropbox.com/s/qryp1bnouodhk0j/IMG_0408.png?raw=1"
+  },
+  {
+    "name": "雙皮奶",
+    "recipes": [
+      "麵粉",
+      "牛奶",
+      "冰塊"
+    ],
+    "recipeObj": {
+      "麵粉": "1",
+      "牛奶": "2",
+      "冰塊": "1"
+    },
+    "usages": [
+      "奔跑消耗體力減少",
+      "採集暴擊"
+    ],
+    "usageObj": {
+      "奔跑消耗體力減少": "奔跑體力消耗減少",
+      "採集暴擊": "提升砍樹資源暴擊率/砍樹副資源暴擊率"
+    },
+    "image": "https://www.dropbox.com/s/0gf2ujmdg0471fh/IMG_0349.png?raw=1"
+  },
+  {
+    "name": "芝麻糊",
+    "recipes": [
+      "芝麻",
+      "大米",
+      "特殊備註"
+    ],
+    "recipeObj": {
+      "芝麻": "2",
+      "大米": "2",
+      "特殊備註": "芝麻為元宵節限定食材"
+    },
+    "usages": [
+      "採集暴擊"
+    ],
+    "usageObj": {
+      "採集暴擊": "提升採麻主/副資源暴擊率"
+    },
+    "image": "https://www.dropbox.com/s/hc2dp2kw6k2hf53/IMG_0550.png?raw=1",
+    "newDish": true
+  },
+  {
+    "name": "薑撞奶",
+    "recipes": [
+      "蜂蜜",
+      "牛奶",
+      "蔥薑蒜"
+    ],
+    "recipeObj": {
+      "蜂蜜": "2",
+      "牛奶": "1",
+      "蔥薑蒜": "1"
+    },
+    "usages": [
+      "採集暴擊",
+      "移速加成"
+    ],
+    "usageObj": {
+      "採集暴擊": "提升砍樹資源暴擊率/砍樹副資源暴擊率",
+      "移速加成": "提升移動速度"
+    },
+    "image": "https://www.dropbox.com/s/vzlnxt484hiowyq/IMG_0471.png?raw=1"
+  },
+  {
+    "name": "水果棒棒糖",
+    "recipes": [
+      "蜂蜜",
+      "草莓",
+      "特殊備註"
+    ],
+    "recipeObj": {
+      "蜂蜜": "2",
+      "草莓": "2",
+      "特殊備註": "需學習製作技能（獨家秘方1級）"
+    },
+    "usages": [
+      "移速加成",
+      "游泳速度"
+    ],
+    "usageObj": {
+      "移速加成": "提升移動速度",
+      "游泳速度": "提升游泳速度"
+    },
+    "image": "https://www.dropbox.com/s/z9gdvkhv14m61tl/IMG_0263.png?raw=1"
+  },
+  {
+    "name": "鳳梨酥",
+    "recipes": [
+      "禽蛋",
+      "糖",
+      "鳳梨"
+    ],
+    "recipeObj": {
+      "禽蛋": "1",
+      "糖": "1",
+      "鳳梨": "2"
+    },
+    "usages": [
+      "回復血量",
+      "傷害加成"
+    ],
+    "usageObj": {
+      "回復血量": "生命持續恢復",
+      "傷害加成": "提升對人型怪物傷害"
+    },
+    "image": "https://www.dropbox.com/s/43peljslucci8xo/IMG_0436.png?raw=1"
+  },
+  {
+    "name": "西多士",
+    "recipes": [
+      "水果",
+      "牛奶",
+      "禽蛋",
+      "糖"
+    ],
+    "recipeObj": {
+      "水果": "1",
+      "牛奶": "1",
+      "禽蛋": "1",
+      "糖": "1"
+    },
+    "usages": [
+      "採集速度",
+      "採集暴擊"
+    ],
+    "usageObj": {
+      "採集速度": "提升伐木效率",
+      "採集暴擊": "提升伐木主資源暴擊率"
+    },
+    "image": "https://www.dropbox.com/s/u7lv1aczrr64k3w/IMG_0450.png?raw=1"
+  },
+  {
+    "name": "雞蛋仔",
+    "recipes": [
+      "麵粉",
+      "禽蛋",
+      "糖"
+    ],
+    "recipeObj": {
+      "麵粉": "1",
+      "禽蛋": "2",
+      "糖": "1"
+    },
+    "usages": [
+      "傷害加成",
+      "熟練度獲取"
+    ],
+    "usageObj": {
+      "傷害加成": "提升對感染者傷害",
+      "熟練度獲取": "提升戰鬥熟練度獲取效率"
+    },
+    "image": "https://www.dropbox.com/s/tdkbogq8ea4umvb/IMG_0441.png?raw=1"
+  },
+  {
+    "name": "魚丸粗麵",
+    "recipes": [
+      "魚類",
+      "麵粉",
+      "蔬菜"
+    ],
+    "recipeObj": {
+      "魚類": "1",
+      "麵粉": "1",
+      "蔬菜": "2"
+    },
+    "usages": [
+      "生命上限"
+    ],
+    "usageObj": {
+      "生命上限": "提升血量上限"
+    },
+    "image": "https://www.dropbox.com/s/bpw2kzy5lfkkn3a/IMG_0343.png?raw=1"
+  },
+  {
+    "name": "烤麵包",
+    "recipes": [
+      "麵粉"
+    ],
+    "recipeObj": {
+      "麵粉": "4"
+    },
+    "usages": [
+      "無特殊屬性"
+    ],
+    "usageObj": {
+      "無特殊屬性": "充飢"
+    },
+    "image": "https://www.dropbox.com/s/qjf5zsmy2lxwvga/IMG_0313.png?raw=1"
+  },
+  {
+    "name": "熱牛奶",
+    "recipes": [
+      "牛奶"
+    ],
+    "recipeObj": {
+      "牛奶": "4"
+    },
+    "usages": [
+      "改變體溫",
+      "回復健康值"
+    ],
+    "usageObj": {
+      "改變體溫": "回復體溫",
+      "回復健康值": "回復大量健康值"
+    },
+    "image": "https://www.dropbox.com/s/atix89htue6ihtq/IMG_0270.png?raw=1"
+  },
+  {
+    "name": "肉餡千層餅",
+    "recipes": [
+      "肉",
+      "麵粉"
+    ],
+    "recipeObj": {
+      "肉": "2",
+      "麵粉": "2"
+    },
+    "usages": [
+      "傷害加成"
+    ],
+    "usageObj": {
+      "傷害加成": "小幅提升對人型怪物傷害"
+    },
+    "image": "https://www.dropbox.com/s/hb1srzftemfv03j/IMG_0274.png?raw=1"
+  },
+  {
+    "name": "蔬菜千層餅",
+    "recipes": [
+      "蔬菜",
+      "麵粉"
+    ],
+    "recipeObj": {
+      "蔬菜": "2",
+      "麵粉": "2"
+    },
+    "usages": [
+      "採集暴擊"
+    ],
+    "usageObj": {
+      "採集暴擊": "小幅提升砍樹暴擊"
+    },
+    "image": "https://www.dropbox.com/s/7rl6siar64hvajo/IMG_0275.png?raw=1"
+  },
+  {
+    "name": "蘑菇烏龍麵",
+    "recipes": [
+      "蘑菇",
+      "麵粉"
+    ],
+    "recipeObj": {
+      "蘑菇": "2",
+      "麵粉": "2"
+    },
+    "usages": [
+      "採集暴擊"
+    ],
+    "usageObj": {
+      "採集暴擊": "小幅提升挖掘暴擊"
+    },
+    "image": "https://www.dropbox.com/s/0x01dbekzwqh1ec/IMG_0312.png?raw=1"
+  },
+  {
+    "name": "果醬麵包",
+    "recipes": [
+      "水果",
+      "麵粉"
+    ],
+    "recipeObj": {
+      "水果": "2",
+      "麵粉": "2"
+    },
+    "usages": [
+      "無特殊屬性"
+    ],
+    "usageObj": {
+      "無特殊屬性": "充飢"
+    },
+    "image": "https://www.dropbox.com/s/y2l5sbb2hvvsezk/IMG_0311.png?raw=1"
+  },
+  {
+    "name": "甜菜粥",
+    "recipes": [
+      "蔬菜",
+      "蜂蜜"
+    ],
+    "recipeObj": {
+      "蔬菜": "3",
+      "蜂蜜": "1"
+    },
+    "usages": [
+      "改變體溫",
+      "去除感冒"
+    ],
+    "usageObj": {
+      "改變體溫": "提升體溫",
+      "去除感冒": "去除感冒"
+    },
+    "image": "https://www.dropbox.com/s/dfl5abghfzn56gd/IMG_0299.png?raw=1"
+  },
+  {
+    "name": "奶味牛角包",
+    "recipes": [
+      "麵粉",
+      "牛奶"
+    ],
+    "recipeObj": {
+      "麵粉": "3",
+      "牛奶": "1"
+    },
+    "usages": [
+      "採集暴擊"
+    ],
+    "usageObj": {
+      "採集暴擊": "大幅提升砍樹暴擊"
+    },
+    "image": "https://www.dropbox.com/s/bytobft4123qh6f/IMG_0318.png?raw=1"
+  },
+  {
+    "name": "蜂蜜牛角麵包",
+    "recipes": [
+      "麵粉",
+      "蜂蜜"
+    ],
+    "recipeObj": {
+      "麵粉": "3",
+      "蜂蜜": "1"
+    },
+    "usages": [
+      "採集暴擊"
+    ],
+    "usageObj": {
+      "採集暴擊": "大幅提升砍樹暴擊"
+    },
+    "image": " https://www.dropbox.com/s/0ks46fa6u1pe2wi/IMG_0255.PNG?raw=1"
+  },
+  {
+    "name": "芝麻元宵",
+    "recipes": [
+      "麵粉",
+      "芝麻",
+      "特殊備註"
+    ],
+    "recipeObj": {
+      "麵粉": "2",
+      "芝麻": "2",
+      "特殊備註": "元宵節限定"
+    },
+    "usages": [
+      "採集速度",
+      "採集暴擊",
+      "去除感冒"
+    ],
+    "usageObj": {
+      "採集速度": "提升採麻速度",
+      "採集暴擊": "提升採麻暴擊",
+      "去除感冒": "去除感冒"
+    },
+    "image": "https://www.dropbox.com/s/isex5jm7nbylmjy/IMG_0541.png?raw=1",
+    "newDish": true
+  },
+  {
+    "name": "花生元宵",
+    "recipes": [
+      "麵粉",
+      "花生",
+      "特殊備註"
+    ],
+    "recipeObj": {
+      "麵粉": "2",
+      "花生": "2",
+      "特殊備註": "元宵節限定"
+    },
+    "usages": [
+      "採集速度",
+      "採集暴擊",
+      "去除感冒"
+    ],
+    "usageObj": {
+      "採集速度": "提升挖礦速度",
+      "採集暴擊": "提升挖礦暴擊",
+      "去除感冒": "去除感冒"
+    },
+    "image": "https://www.dropbox.com/s/d1a3pwa3elunalx/IMG_0544.png?raw=1",
+    "newDish": true
+  },
+  {
+    "name": "紅豆元宵",
+    "recipes": [
+      "麵粉",
+      "紅豆",
+      "特殊備註"
+    ],
+    "recipeObj": {
+      "麵粉": "2",
+      "紅豆": "2",
+      "特殊備註": "元宵節限定"
+    },
+    "usages": [
+      "採集速度",
+      "採集暴擊",
+      "去除感冒"
+    ],
+    "usageObj": {
+      "採集速度": "提升伐木速度",
+      "採集暴擊": "提升伐木暴擊",
+      "去除感冒": "去除感冒"
+    },
+    "image": "https://www.dropbox.com/s/hvfm09q4tyr8fvb/IMG_0547.png?raw=1",
+    "newDish": true
+  },
+  {
+    "name": "棗泥元宵",
+    "recipes": [
+      "麵粉",
+      "冬棗",
+      "特殊備註"
+    ],
+    "recipeObj": {
+      "麵粉": "2",
+      "冬棗": "2",
+      "特殊備註": "元宵節限定"
+    },
+    "usages": [
+      "傷害加成",
+      "移速加成",
+      "去除感冒"
+    ],
+    "usageObj": {
+      "傷害加成": "增加對怪物傷害",
+      "移速加成": "大幅提升移動速度",
+      "去除感冒": "去除感冒"
+    },
+    "image": "https://www.dropbox.com/s/42nsz50pp0i3gb4/IMG_0542.png?raw=1",
+    "newDish": true
+  },
+  {
+    "name": "紅油小麵",
+    "recipes": [
+      "麵粉",
+      "朝天椒"
+    ],
+    "recipeObj": {
+      "麵粉": "2",
+      "朝天椒": "2"
+    },
+    "usages": [
+      "無特殊屬性"
+    ],
+    "usageObj": {
+      "無特殊屬性": "充飢"
+    },
+    "image": "https://www.dropbox.com/s/o1j3jo7wysrcij8/IMG_0248.PNG?raw=1"
+  },
+  {
+    "name": "椰漿麵包",
+    "recipes": [
+      "麵粉",
+      "椰子"
+    ],
+    "recipeObj": {
+      "麵粉": "2",
+      "椰子": "2"
+    },
+    "usages": [
+      "無特殊屬性"
+    ],
+    "usageObj": {
+      "無特殊屬性": "充飢"
+    },
+    "image": "https://www.dropbox.com/s/mlhxn8zmn4jckqd/IMG_0249.PNG?raw=1"
+  },
+  {
+    "name": "玉米發糕",
+    "recipes": [
+      "麵粉",
+      "玉米"
+    ],
+    "recipeObj": {
+      "麵粉": "2",
+      "玉米": "2"
+    },
+    "usages": [
+      "無特殊屬性"
+    ],
+    "usageObj": {
+      "無特殊屬性": "充飢"
+    },
+    "image": "https://www.dropbox.com/s/6ymvue8fpby40rw/IMG_0211.PNG?raw=1"
+  },
+  {
+    "name": "水餃",
+    "recipes": [
+      "肉",
+      "蘑菇",
+      "麵粉"
+    ],
+    "recipeObj": {
+      "肉": "2",
+      "蘑菇": "1",
+      "麵粉": "1"
+    },
+    "usages": [
+      "改變體溫"
+    ],
+    "usageObj": {
+      "改變體溫": "可長時間保持體溫"
+    },
+    "image": "https://www.dropbox.com/s/kz6r26dvcjaun57/IMG_0317.png?raw=1"
+  },
+  {
+    "name": "三明治",
+    "recipes": [
+      "肉",
+      "水果",
+      "麵粉"
+    ],
+    "recipeObj": {
+      "肉": "2",
+      "水果": "1",
+      "麵粉": "1"
+    },
+    "usages": [
+      "傷害加成"
+    ],
+    "usageObj": {
+      "傷害加成": "大幅提升對感染生物傷害"
+    },
+    "image": "https://www.dropbox.com/s/ag6qnvq6g0ggcgc/IMG_0316.png?raw=1"
+  },
+  {
+    "name": "蝦仁玉米披薩",
+    "recipes": [
+      "明蝦",
+      "麵粉",
+      "玉米"
+    ],
+    "recipeObj": {
+      "明蝦": "1",
+      "麵粉": "2",
+      "玉米": "1"
+    },
+    "usages": [
+      "暴擊率"
+    ],
+    "usageObj": {
+      "暴擊率": "提升暴擊率"
+    },
+    "image": "https://www.dropbox.com/s/6427zhnqxcczx3x/IMG_0406.png?raw=1"
+  },
+  {
+    "name": "特製披薩",
+    "recipes": [
+      "肉",
+      "蔬菜",
+      "蘑菇",
+      "麵粉",
+      "特殊備註"
+    ],
+    "recipeObj": {
+      "肉": "1",
+      "蔬菜": "1",
+      "蘑菇": "1",
+      "麵粉": "1",
+      "特殊備註": "需要找NPC夏冬涼購買"
+    },
+    "usages": [
+      "傷害加成"
+    ],
+    "usageObj": {
+      "傷害加成": "大幅提升對建築傷害"
+    },
+    "image": "https://www.dropbox.com/s/xapuvpbq3hh4cf5/IMG_0320.png?raw=1"
+  },
+  {
+    "name": "肉醬義大利麵",
+    "recipes": [
+      "肉",
+      "蔬菜",
+      "水果",
+      "麵粉",
+      "特殊備註"
+    ],
+    "recipeObj": {
+      "肉": "1",
+      "蔬菜": "1",
+      "水果": "1",
+      "麵粉": "1",
+      "特殊備註": "需要找NPC夏冬涼購買"
+    },
+    "usages": [
+      "暴擊率"
+    ],
+    "usageObj": {
+      "暴擊率": "大幅度提升暴擊率"
+    },
+    "image": "https://www.dropbox.com/s/btgqxhd7caebyqb/IMG_0319.png?raw=1"
+  },
+  {
+    "name": "彩虹元宵",
+    "recipes": [
+      "麵粉",
+      "芝麻",
+      "花生",
+      "紅豆",
+      "特殊備註"
+    ],
+    "recipeObj": {
+      "麵粉": "1",
+      "芝麻": "1",
+      "花生": "1",
+      "紅豆": "1",
+      "特殊備註": "元宵節限定"
+    },
+    "usages": [
+      "回復血量"
+    ],
+    "usageObj": {
+      "回復血量": "持續回復血量"
+    },
+    "image": "https://www.dropbox.com/s/z22hi3x9fn06dr2/IMG_0545.png?raw=1",
+    "newDish": true
+  },
+  {
+    "name": "草莓鬆餅",
+    "recipes": [
+      "草莓",
+      "麵粉"
+    ],
+    "recipeObj": {
+      "草莓": "3",
+      "麵粉": "1"
+    },
+    "usages": [
+      "回復血量"
+    ],
+    "usageObj": {
+      "回復血量": "回血"
+    },
+    "image": "https://www.dropbox.com/s/6hgdjgi4ztjw39v/IMG_0265.png?raw=1"
+  },
+  {
+    "name": "藍莓餅乾",
+    "recipes": [
+      "麵粉",
+      "藍莓"
+    ],
+    "recipeObj": {
+      "麵粉": "2",
+      "藍莓": "2"
+    },
+    "usages": [
+      "採集速度"
+    ],
+    "usageObj": {
+      "採集速度": "提升伐木速度"
+    },
+    "image": "https://www.dropbox.com/s/v50e12kb49o6j9o/IMG_0345.png?raw=1"
+  },
+  {
+    "name": "海鮮炒烏冬",
+    "recipes": [
+      "麵粉",
+      "明蝦",
+      "魷魚",
+      "梭子蟹"
+    ],
+    "recipeObj": {
+      "麵粉": "1",
+      "明蝦": "1",
+      "魷魚": "1",
+      "梭子蟹": "1"
+    },
+    "usages": [
+      "生命上限"
+    ],
+    "usageObj": {
+      "生命上限": "提升生命上限"
+    },
+    "image": "https://www.dropbox.com/s/ozfkihzwrfaxz8x/IMG_0209.PNG?raw=1"
+  },
+  {
+    "name": "香菇火腿粽",
+    "recipes": [
+      "糯米",
+      "火腿",
+      "香菇",
+      "特殊備註"
+    ],
+    "recipeObj": {
+      "糯米": "2",
+      "火腿": "1",
+      "香菇": "1",
+      "特殊備註": "2019端午節限定"
+    },
+    "usages": [
+      "採集速度"
+    ],
+    "usageObj": {
+      "採集速度": "大幅提升伐木速度"
+    },
+    "image": "https://www.dropbox.com/s/77nccputte4qc4l/coming_soon.png?raw=1"
+  },
+  {
+    "name": "香菇蝦仁粽",
+    "recipes": [
+      "糯米",
+      "蝦仁",
+      "香菇",
+      "特殊備註"
+    ],
+    "recipeObj": {
+      "糯米": "2",
+      "蝦仁": "1",
+      "香菇": "1",
+      "特殊備註": "2019端午節限定"
+    },
+    "usages": [
+      "採集速度"
+    ],
+    "usageObj": {
+      "採集速度": "大幅提升挖礦速度"
+    },
+    "image": "https://www.dropbox.com/s/77nccputte4qc4l/coming_soon.png?raw=1"
+  },
+  {
+    "name": "綠豆鮮肉粽",
+    "recipes": [
+      "糯米",
+      "綠豆",
+      "五花肉",
+      "特殊備註"
+    ],
+    "recipeObj": {
+      "糯米": "2",
+      "綠豆": "1",
+      "五花肉": "1",
+      "特殊備註": "2019端午節限定"
+    },
+    "usages": [
+      "採集速度"
+    ],
+    "usageObj": {
+      "採集速度": "大幅提升採麻速度"
+    },
+    "image": "https://www.dropbox.com/s/77nccputte4qc4l/coming_soon.png?raw=1"
+  },
+  {
+    "name": "綠豆火腿粽",
+    "recipes": [
+      "糯米",
+      "綠豆",
+      "火腿",
+      "特殊備註"
+    ],
+    "recipeObj": {
+      "糯米": "2",
+      "綠豆": "1",
+      "火腿": "1",
+      "特殊備註": "2019端午節限定"
+    },
+    "usages": [
+      "採集暴擊"
+    ],
+    "usageObj": {
+      "採集暴擊": "大幅提升伐木暴擊"
+    },
+    "image": "https://www.dropbox.com/s/77nccputte4qc4l/coming_soon.png?raw=1"
+  },
+  {
+    "name": "板栗蝦仁粽",
+    "recipes": [
+      "糯米",
+      "板栗",
+      "蝦仁",
+      "特殊備註"
+    ],
+    "recipeObj": {
+      "糯米": "2",
+      "板栗": "1",
+      "蝦仁": "1",
+      "特殊備註": "2019端午節限定"
+    },
+    "usages": [
+      "採集暴擊"
+    ],
+    "usageObj": {
+      "採集暴擊": "大幅提升挖礦暴擊"
+    },
+    "image": "https://www.dropbox.com/s/77nccputte4qc4l/coming_soon.png?raw=1"
+  },
+  {
+    "name": "板栗鮮肉粽",
+    "recipes": [
+      "糯米",
+      "板栗",
+      "五花肉",
+      "特殊備註"
+    ],
+    "recipeObj": {
+      "糯米": "2",
+      "板栗": "1",
+      "五花肉": "1",
+      "特殊備註": "2019端午節限定"
+    },
+    "usages": [
+      "採集暴擊"
+    ],
+    "usageObj": {
+      "採集暴擊": "大幅提升採麻暴擊"
+    },
+    "image": "https://www.dropbox.com/s/77nccputte4qc4l/coming_soon.png?raw=1"
+  },
+  {
+    "name": "至尊甜粽",
+    "recipes": [
+      "糯米",
+      "板栗",
+      "綠豆",
+      "香菇",
+      "特殊備註"
+    ],
+    "recipeObj": {
+      "糯米": "1",
+      "板栗": "1",
+      "綠豆": "1",
+      "香菇": "1",
+      "特殊備註": "2019端午節限定"
+    },
+    "usages": [
+      "回復血量"
+    ],
+    "usageObj": {
+      "回復血量": "持續回復血量"
+    },
+    "image": "https://www.dropbox.com/s/77nccputte4qc4l/coming_soon.png?raw=1"
+  },
+  {
+    "name": "至尊肉粽",
+    "recipes": [
+      "糯米",
+      "火腿",
+      "五花肉",
+      "蝦仁",
+      "特殊備註"
+    ],
+    "recipeObj": {
+      "糯米": "1",
+      "火腿": "1",
+      "五花肉": "1",
+      "蝦仁": "1",
+      "特殊備註": "2019端午節限定"
+    },
+    "usages": [
+      "暴擊率"
+    ],
+    "usageObj": {
+      "暴擊率": "大幅提升暴擊"
+    },
+    "image": "https://www.dropbox.com/s/77nccputte4qc4l/coming_soon.png?raw=1"
+  },
+  {
+    "name": "蛋包飯",
+    "recipes": [
+      "大米",
+      "禽蛋",
+      "醬料"
+    ],
+    "recipeObj": {
+      "大米": "2",
+      "禽蛋": "1",
+      "醬料": "1"
+    },
+    "usages": [
+      "回復血量",
+      "射速增加",
+      "暴擊減免"
+    ],
+    "usageObj": {
+      "回復血量": "持續恢復生命",
+      "射速增加": "提升射速",
+      "暴擊減免": "提升免爆"
+    },
+    "image": "https://www.dropbox.com/s/t7s21fvsv2uh73f/IMG_0205.PNG?raw=1"
+  },
+  {
+    "name": "蛋炒飯",
+    "recipes": [
+      "大米",
+      "禽蛋"
+    ],
+    "recipeObj": {
+      "大米": "2",
+      "禽蛋": "2"
+    },
+    "usages": [
+      "回復血量",
+      "熟練度獲取"
+    ],
+    "usageObj": {
+      "回復血量": "持續恢復生命",
+      "熟練度獲取": "提升射擊獲得戰鬥熟練度"
+    },
+    "image": "https://www.dropbox.com/s/72nwfbgr9pz58uw/IMG_0327.png?raw=1"
+  },
+  {
+    "name": "香菇滷肉飯",
+    "recipes": [
+      "大米",
+      "蘑菇",
+      "肉"
+    ],
+    "recipeObj": {
+      "大米": "2",
+      "蘑菇": "1",
+      "肉": "1"
+    },
+    "usages": [
+      "暴擊減免",
+      "採集暴擊",
+      "暴擊率"
+    ],
+    "usageObj": {
+      "暴擊減免": "提升免爆",
+      "採集暴擊": "提升採麻副資源暴擊率",
+      "暴擊率": "提升暴擊率"
+    },
+    "image": "https://www.dropbox.com/s/6mljfkpov2wnufj/IMG_0359.png?raw=1"
+  },
+  {
+    "name": "海鮮粥",
+    "recipes": [
+      "大米",
+      "明蝦",
+      "河蟹",
+      "魚類"
+    ],
+    "recipeObj": {
+      "大米": "1",
+      "明蝦": "1",
+      "河蟹": "1",
+      "魚類": "1"
+    },
+    "usages": [
+      "抗惡劣環境",
+      "採集暴擊"
+    ],
+    "usageObj": {
+      "抗惡劣環境": "提升沼澤抵抗力",
+      "採集暴擊": "提升砍樹資源暴擊率/砍樹副資源暴擊率"
+    },
+    "image": "https://www.dropbox.com/s/hwntrhpb20axt2s/IMG_0256.PNG?raw=1"
+  },
+  {
+    "name": "金槍魚烤米卷",
+    "recipes": [
+      "調料",
+      "大米",
+      "特定海鮮類"
+    ],
+    "recipeObj": {
+      "調料": "1",
+      "大米": "1",
+      "特定海鮮類": "金槍魚: 2"
+    },
+    "usages": [
+      "採集速度",
+      "奔跑消耗體力減少",
+      "游泳速度"
+    ],
+    "usageObj": {
+      "採集速度": "提升砍樹時的砍伐速度",
+      "奔跑消耗體力減少": "奔跑體力消耗減少",
+      "游泳速度": "提升游泳速度"
+    },
+    "image": "https://www.dropbox.com/s/77nccputte4qc4l/coming_soon.png?raw=1"
+  },
+  {
+    "name": "椰子燉飯",
+    "recipes": [
+      "大米",
+      "椰子"
+    ],
+    "recipeObj": {
+      "大米": "2",
+      "椰子": "2"
+    },
+    "usages": [
+      "回復血量",
+      "抗惡劣環境",
+      "採集暴擊"
+    ],
+    "usageObj": {
+      "回復血量": "回復持續生命",
+      "抗惡劣環境": "提升沙塵暴抵抗力",
+      "採集暴擊": "提升砍樹資源暴擊率"
+    },
+    "image": "https://www.dropbox.com/s/dh6z843has1t0ot/IMG_0220.PNG?raw=1"
+  },
+  {
+    "name": "什錦燒麥",
+    "recipes": [
+      "大米",
+      "蔬菜",
+      "肉"
+    ],
+    "recipeObj": {
+      "大米": "2",
+      "蔬菜": "1",
+      "肉": "1"
+    },
+    "usages": [
+      "抗惡劣環境",
+      "採集暴擊",
+      "攜帶彈藥量"
+    ],
+    "usageObj": {
+      "抗惡劣環境": "提升雷雨抵抗力",
+      "採集暴擊": "提升砍樹副資源暴擊率",
+      "攜帶彈藥量": "提升攜帶彈藥量上限"
+    },
+    "image": "https://www.dropbox.com/s/cjfdqf1saowhtdv/IMG_0355.png?raw=1"
+  },
+  {
+    "name": "草莓飯團",
+    "recipes": [
+      "大米",
+      "草莓"
+    ],
+    "recipeObj": {
+      "大米": "2",
+      "草莓": "2"
+    },
+    "usages": [
+      "抗惡劣環境",
+      "採集暴擊"
+    ],
+    "usageObj": {
+      "抗惡劣環境": "提升暴風雪抵抗力",
+      "採集暴擊": "提升採麻資源暴擊率"
+    },
+    "image": "https://www.dropbox.com/s/by9wiv0ro7zsz96/IMG_0356.png?raw=1"
+  },
+  {
+    "name": "牛奶乳酪米糊",
+    "recipes": [
+      "大米",
+      "牛奶"
+    ],
+    "recipeObj": {
+      "大米": "2",
+      "牛奶": "2"
+    },
+    "usages": [
+      "抗惡劣環境",
+      "採集暴擊"
+    ],
+    "usageObj": {
+      "抗惡劣環境": "提升雷雨抵抗力",
+      "採集暴擊": "提升砍樹資源暴擊率"
+    },
+    "image": "https://www.dropbox.com/s/9jcf0ik7aieq7q0/IMG_0358.png?raw=1"
+  },
+  {
+    "name": "麻辣砂鍋米粉",
+    "recipes": [
+      "大米",
+      "朝天椒"
+    ],
+    "recipeObj": {
+      "大米": "2",
+      "朝天椒": "2"
+    },
+    "usages": [
+      "抗惡劣環境",
+      "採集暴擊"
+    ],
+    "usageObj": {
+      "抗惡劣環境": "提升沼澤抵抗力",
+      "採集暴擊": "提升暴擊率"
+    },
+    "image": "https://www.dropbox.com/s/ge1r7o6uz99f5ba/IMG_0365.png?raw=1"
+  },
+  {
+    "name": "煲仔飯",
+    "recipes": [
+      "大米",
+      "肉",
+      "調料",
+      "特殊備註"
+    ],
+    "recipeObj": {
+      "大米": "2",
+      "肉": "1",
+      "調料": "1",
+      "特殊備註": "需要找NPC夏冬涼購買"
+    },
+    "usages": [
+      "回復血量",
+      "奔跑消耗體力減少",
+      "爆頭傷害",
+      "暴擊減免"
+    ],
+    "usageObj": {
+      "回復血量": "持續恢復生命",
+      "奔跑消耗體力減少": "奔跑體力消耗減少",
+      "爆頭傷害": "提升爆頭傷害",
+      "暴擊減免": "提升免爆"
+    },
+    "image": "https://www.dropbox.com/s/77nccputte4qc4l/coming_soon.png?raw=1"
+  },
+  {
+    "name": "脆米仙貝",
+    "recipes": [
+      "調料",
+      "醬料",
+      "大米"
+    ],
+    "recipeObj": {
+      "調料": "1",
+      "醬料": "1",
+      "大米": "2"
+    },
+    "usages": [
+      "回復血量",
+      "移速加成",
+      "抗惡劣環境"
+    ],
+    "usageObj": {
+      "回復血量": "生命持續恢復",
+      "移速加成": "提升移動速度",
+      "抗惡劣環境": "提升沼澤抵抗力"
+    },
+    "image": "https://www.dropbox.com/s/odj676uggyla5yk/IMG_0407.png?raw=1"
+  },
+  {
+    "name": "白米飯",
+    "recipes": [
+      "大米"
+    ],
+    "recipeObj": {
+      "大米": "4"
+    },
+    "usages": [
+      "生命上限"
+    ],
+    "usageObj": {
+      "生命上限": "提升生命上限"
+    },
+    "image": "https://www.dropbox.com/s/ck5h930uu684r70/IMG_0259.PNG?raw=1"
+  },
+  {
+    "name": "南瓜手抓飯",
+    "recipes": [
+      "大米",
+      "南瓜"
+    ],
+    "recipeObj": {
+      "大米": "2",
+      "南瓜": "2"
+    },
+    "usages": [
+      "抗惡劣環境",
+      "採集暴擊"
+    ],
+    "usageObj": {
+      "抗惡劣環境": "提升沼澤抵抗力",
+      "採集暴擊": "提升砍樹副資源暴擊率"
+    },
+    "image": "https://www.dropbox.com/s/lb7dceb4oaq5x89/IMG_0219.PNG?raw=1"
+  },
+  {
+    "name": "海鮮炒飯",
+    "recipes": [
+      "大米",
+      "明蝦",
+      "河蟹"
+    ],
+    "recipeObj": {
+      "大米": "2",
+      "明蝦": "1",
+      "河蟹": "1"
+    },
+    "usages": [
+      "生命上限",
+      "採集暴擊"
+    ],
+    "usageObj": {
+      "生命上限": "提升生命上限",
+      "採集暴擊": "提升挖礦資源暴擊率/挖礦副資源暴擊率"
+    },
+    "image": "https://www.dropbox.com/s/3kz6fw9vryy2o0r/IMG_0351.png?raw=1"
+  },
+  {
+    "name": "起司紅腸飯",
+    "recipes": [
+      "大米",
+      "肉",
+      "牛奶"
+    ],
+    "recipeObj": {
+      "大米": "2",
+      "肉": "1",
+      "牛奶": "1"
+    },
+    "usages": [
+      "回復血量",
+      "採集暴擊",
+      "熟練度獲取"
+    ],
+    "usageObj": {
+      "回復血量": "生命持續恢復",
+      "採集暴擊": "提升挖掘資源暴擊率",
+      "熟練度獲取": "提升射擊獲得戰鬥熟練度"
+    },
+    "image": "https://www.dropbox.com/s/3lu89e8aglg8494/IMG_0326.png?raw=1"
+  },
+  {
+    "name": "可愛的飯團",
+    "recipes": [
+      "調料",
+      "大米",
+      "胡蘿蔔"
+    ],
+    "recipeObj": {
+      "調料": "1",
+      "大米": "2",
+      "胡蘿蔔": "1"
+    },
+    "usages": [
+      "回復血量",
+      "熟練度獲取",
+      "移速加成"
+    ],
+    "usageObj": {
+      "回復血量": "持續回復血量",
+      "熟練度獲取": "提升勞動時採集熟練度",
+      "移速加成": "提升移動速度"
+    },
+    "image": "https://www.dropbox.com/s/1t3xo2zkhtmnujd/IMG_0474.png?raw=1"
+  },
+  {
+    "name": "石鍋拌飯",
+    "recipes": [
+      "大米",
+      "蔬菜",
+      "禽蛋"
+    ],
+    "recipeObj": {
+      "大米": "2",
+      "蔬菜": "1",
+      "禽蛋": "1"
+    },
+    "usages": [
+      "回復血量",
+      "熟練度獲取"
+    ],
+    "usageObj": {
+      "回復血量": "生命持續恢復",
+      "熟練度獲取": "提升戰鬥採集熟練度"
+    },
+    "image": "https://www.dropbox.com/s/9brny032klllpke/IMG_0325.png?raw=1"
+  },
+  {
+    "name": "鮮蝦咖哩炒飯",
+    "recipes": [
+      "大米",
+      "明蝦",
+      "調料"
+    ],
+    "recipeObj": {
+      "大米": "2",
+      "明蝦": "1",
+      "調料": "1"
+    },
+    "usages": [
+      "暴擊減免",
+      "採集速度",
+      "體力上限"
+    ],
+    "usageObj": {
+      "暴擊減免": "提升免爆",
+      "採集速度": "提升挖掘速度",
+      "體力上限": "提升氣力上限添加率"
+    },
+    "image": "https://www.dropbox.com/s/2eoj5yrxjabyxpv/IMG_0257.PNG?raw=1"
+  },
+  {
+    "name": "鳳梨什錦飯",
+    "recipes": [
+      "大米",
+      "蔬菜",
+      "鳳梨",
+      "特殊備註"
+    ],
+    "recipeObj": {
+      "大米": "2",
+      "蔬菜": "1",
+      "鳳梨": "1",
+      "特殊備註": "需要找NPC夏冬涼購買"
+    },
+    "usages": [
+      "生命上限",
+      "採集速度",
+      "採集暴擊"
+    ],
+    "usageObj": {
+      "生命上限": "提升生命上限",
+      "採集速度": "提升挖掘速度",
+      "採集暴擊": "提升挖礦資源暴擊率/挖礦副資源暴擊率"
+    },
+    "image": "https://www.dropbox.com/s/77nccputte4qc4l/coming_soon.png?raw=1"
+  },
+  {
+    "name": "吐司風米飯片",
+    "recipes": [
+      "蔬菜",
+      "大米",
+      "特定海鮮類"
+    ],
+    "recipeObj": {
+      "蔬菜": "1",
+      "大米": "2",
+      "特定海鮮類": "鮭魚: 1"
+    },
+    "usages": [
+      "回復血量",
+      "採集速度",
+      "採集暴擊"
+    ],
+    "usageObj": {
+      "回復血量": "持續回復血量",
+      "採集速度": "採集時間縮減",
+      "採集暴擊": "提升採麻資源暴擊率"
+    },
+    "image": "https://www.dropbox.com/s/xa6s5q3xwvwpxx7/IMG_0469.png?raw=1"
+  },
+  {
+    "name": "肥腸粉",
+    "recipes": [
+      "粉絲",
+      "動物內臟",
+      "朝天椒"
+    ],
+    "recipeObj": {
+      "粉絲": "2",
+      "動物內臟": "1",
+      "朝天椒": "1"
+    },
+    "usages": [
+      "抗惡劣環境",
+      "補彈消耗降低",
+      "傷害加成"
+    ],
+    "usageObj": {
+      "抗惡劣環境": "提升雷雨抵抗力",
+      "補彈消耗降低": "補彈彈藥消耗降低",
+      "傷害加成": "提升對感染單位傷害"
+    },
+    "image": "https://www.dropbox.com/s/4jl41rdwt00fz2m/IMG_0250.PNG?raw=1"
+  },
+  {
+    "name": "酸辣粉",
+    "recipes": [
+      "朝天椒",
+      "粉絲",
+      "蔥薑蒜"
+    ],
+    "recipeObj": {
+      "朝天椒": "1",
+      "粉絲": "2",
+      "蔥薑蒜": "1"
+    },
+    "usages": [
+      "奔跑消耗體力減少",
+      "抗惡劣環境",
+      "暴擊率"
+    ],
+    "usageObj": {
+      "奔跑消耗體力減少": "奔跑體力消耗減少",
+      "抗惡劣環境": "提升沼澤抵抗力",
+      "暴擊率": "提升暴擊率"
+    },
+    "image": "https://www.dropbox.com/s/mj5j3znznlc8iaw/IMG_0402.png?raw=1"
+  },
+  {
+    "name": "紅油抄手",
+    "recipes": [
+      "麵粉",
+      "肉",
+      "朝天椒"
+    ],
+    "recipeObj": {
+      "麵粉": "2",
+      "肉": "1",
+      "朝天椒": "1"
+    },
+    "usages": [
+      "換彈加速",
+      "暴擊率"
+    ],
+    "usageObj": {
+      "換彈加速": "換彈加速",
+      "暴擊率": "提升暴擊率"
+    },
+    "image": "https://www.dropbox.com/s/6x2tvt9tvq11bhk/IMG_0197.PNG?raw=1"
+  },
+  {
+    "name": "擔擔麵",
+    "recipes": [
+      "調料",
+      "麵粉"
+    ],
+    "recipeObj": {
+      "調料": "2",
+      "麵粉": "2"
+    },
+    "usages": [
+      "採集速度",
+      "抗惡劣環境"
+    ],
+    "usageObj": {
+      "採集速度": "提升砍樹時砍伐速度",
+      "抗惡劣環境": "提升雷雨抵抗力"
+    },
+    "image": "https://www.dropbox.com/s/fzgjctql529yzjk/IMG_0193.PNG?raw=1"
+  },
+  {
+    "name": "涼糕",
+    "recipes": [
+      "麵粉",
+      "調料"
+    ],
+    "recipeObj": {
+      "麵粉": "3",
+      "調料": "1"
+    },
+    "usages": [
+      "抗惡劣環境",
+      "採集暴擊",
+      "採集速度"
+    ],
+    "usageObj": {
+      "抗惡劣環境": "提升雷雨抵抗力",
+      "採集暴擊": "提升砍樹資源暴擊率",
+      "採集速度": "提升砍樹時伐木速度"
+    },
+    "image": "https://dl.dropboxusercontent.com/s/d2i5rzvs2u5gqqb/IMG_0191.PNG"
+  },
+  {
+    "name": "鐘水餃",
+    "recipes": [
+      "肉",
+      "麵粉"
+    ],
+    "recipeObj": {
+      "肉": "1",
+      "麵粉": "3"
+    },
+    "usages": [
+      "補彈消耗降低",
+      "攜帶彈藥量"
+    ],
+    "usageObj": {
+      "補彈消耗降低": "補彈彈藥消耗降低",
+      "攜帶彈藥量": "提升攜帶彈藥量上限"
+    },
+    "image": "https://www.dropbox.com/s/rwmjnd0exwuxc2d/IMG_0391.png?raw=1"
+  },
+  {
+    "name": "鍋盔",
+    "recipes": [
+      "麵粉",
+      "肉",
+      "調料"
+    ],
+    "recipeObj": {
+      "麵粉": "2",
+      "肉": "1",
+      "調料": "1"
+    },
+    "usages": [
+      "奔跑消耗體力減少",
+      "爆頭傷害",
+      "熟練度獲取"
+    ],
+    "usageObj": {
+      "奔跑消耗體力減少": "奔跑體力消耗減少",
+      "爆頭傷害": "提升爆頭傷害",
+      "熟練度獲取": "提升射擊獲得戰鬥熟練度"
+    },
+    "image": "https://www.dropbox.com/s/mew1rpgri7pmktv/IMG_0396.png?raw=1"
+  },
+  {
+    "name": "涼麵",
+    "recipes": [
+      "醬料",
+      "蔥薑蒜",
+      "麵粉"
+    ],
+    "recipeObj": {
+      "醬料": "1",
+      "蔥薑蒜": "1",
+      "麵粉": "2"
+    },
+    "usages": [
+      "採集速度",
+      "體力上限",
+      "抗惡劣環境"
+    ],
+    "usageObj": {
+      "採集速度": "採集時間縮減",
+      "體力上限": "提升氣力上限添加率",
+      "抗惡劣環境": "提升沼澤抵抗力"
+    },
+    "image": "https://www.dropbox.com/s/t16mvj16e8ra94s/IMG_0198.PNG?raw=1"
+  },
+  {
+    "name": "鳳梨油",
+    "recipes": [
+      "麵粉",
+      "蜂蜜"
+    ],
+    "recipeObj": {
+      "麵粉": "2",
+      "蜂蜜": "2"
+    },
+    "usages": [
+      "體力恢復加速",
+      "採集速度"
+    ],
+    "usageObj": {
+      "體力恢復加速": "體力恢復速度增加",
+      "採集速度": "提升挖礦速度"
+    },
+    "image": "https://www.dropbox.com/s/38prbm78dfmr3jp/IMG_0357.png?raw=1"
+  },
+  {
+    "name": "水晶蝦餃",
+    "recipes": [
+      "麵粉",
+      "明蝦"
+    ],
+    "recipeObj": {
+      "麵粉": "2",
+      "明蝦": "2"
+    },
+    "usages": [
+      "採集速度",
+      "採集暴擊"
+    ],
+    "usageObj": {
+      "採集速度": "提升砍樹時砍伐速度",
+      "採集暴擊": "提升砍樹資源暴擊率/砍樹副資源暴擊率"
+    },
+    "image": "https://www.dropbox.com/s/zil6qxg92fzy856/IMG_0195.PNG?raw=1"
+  },
+  {
+    "name": "鮮蝦雲吞",
+    "recipes": [
+      "麵粉",
+      "明蝦",
+      "醬料"
+    ],
+    "recipeObj": {
+      "麵粉": "2",
+      "明蝦": "1",
+      "醬料": "1"
+    },
+    "usages": [
+      "採集暴擊",
+      "抗惡劣環境"
+    ],
+    "usageObj": {
+      "採集暴擊": "提升挖掘資源暴擊率/挖掘副資源暴擊率",
+      "抗惡劣環境": "提升沙塵暴抵抗力"
+    },
+    "image": "https://www.dropbox.com/s/1a5gwmb3y49wib7/IMG_0194.PNG?raw=1"
+  },
+  {
+    "name": "鮮肉腸粉",
+    "recipes": [
+      "肉",
+      "醬料",
+      "大米"
+    ],
+    "recipeObj": {
+      "肉": "2",
+      "醬料": "1",
+      "大米": "1"
+    },
+    "usages": [
+      "回復血量",
+      "抗惡劣環境",
+      "射速增加"
+    ],
+    "usageObj": {
+      "回復血量": "生命持續恢復",
+      "抗惡劣環境": "提升暴風雪抵抗力",
+      "射速增加": "提升射速"
+    },
+    "image": "https://www.dropbox.com/s/4l1qnzn3irmv1qq/IMG_0354.png?raw=1"
+  },
+  {
+    "name": "鮮蝦腸粉",
+    "recipes": [
+      "明蝦",
+      "大米",
+      "醬料"
+    ],
+    "recipeObj": {
+      "明蝦": "2",
+      "大米": "1",
+      "醬料": "1"
+    },
+    "usages": [
+      "抗惡劣環境",
+      "採集速度",
+      "暴擊減免"
+    ],
+    "usageObj": {
+      "抗惡劣環境": "提升沙塵暴抵抗力",
+      "採集速度": "提升挖掘速度",
+      "暴擊減免": "提升免爆"
+    },
+    "image": "https://www.dropbox.com/s/57euuhtmyjunsfs/IMG_0246.PNG?raw=1"
+  },
+  {
+    "name": "雞蛋腸粉",
+    "recipes": [
+      "禽蛋",
+      "大米",
+      "醬料"
+    ],
+    "recipeObj": {
+      "禽蛋": "2",
+      "大米": "1",
+      "醬料": "1"
+    },
+    "usages": [
+      "抗惡劣環境",
+      "攜帶彈藥量",
+      "生命上限"
+    ],
+    "usageObj": {
+      "抗惡劣環境": "提升雷雨抵抗力",
+      "攜帶彈藥量": "提升攜帶彈藥量上限",
+      "生命上限": "提升生命上限"
+    },
+    "image": "https://www.dropbox.com/s/swt6d4a4rab42b9/IMG_0404.png?raw=1"
+  },
+  {
+    "name": "肝腰腸粉",
+    "recipes": [
+      "醬料",
+      "動物內臟",
+      "大米"
+    ],
+    "recipeObj": {
+      "醬料": "1",
+      "動物內臟": "2",
+      "大米": "1"
+    },
+    "usages": [
+      "回復血量",
+      "抗惡劣環境",
+      "傷害加成"
+    ],
+    "usageObj": {
+      "回復血量": "生命持續恢復",
+      "抗惡劣環境": "提升沼澤抵抗力",
+      "傷害加成": "提升對人型怪物傷害"
+    },
+    "image": "https://www.dropbox.com/s/4w1ispk06gdm1c8/IMG_0364.png?raw=1"
+  },
+  {
+    "name": "皮蛋瘦肉粥",
+    "recipes": [
+      "大米",
+      "禽蛋",
+      "肉"
+    ],
+    "recipeObj": {
+      "大米": "2",
+      "禽蛋": "1",
+      "肉": "1"
+    },
+    "usages": [
+      "補彈消耗降低",
+      "暴擊減免",
+      "冷兵器揮擊速度"
+    ],
+    "usageObj": {
+      "補彈消耗降低": "補彈彈藥消耗降低",
+      "暴擊減免": "提升免爆",
+      "冷兵器揮擊速度": "提升冷兵器揮擊速度"
+    },
+    "image": "https://www.dropbox.com/s/0efxnbeuiao7gsp/IMG_0201.PNG?raw=1"
+  },
+  {
+    "name": "火腿蛋絲粥",
+    "recipes": [
+      "肉",
+      "大米",
+      "火腿",
+      "特殊備註"
+    ],
+    "recipeObj": {
+      "肉": "1",
+      "大米": "2",
+      "火腿": "1",
+      "特殊備註": "火腿為端午節限定食材"
+    },
+    "usages": [
+      "抗惡劣環境",
+      "射速增加",
+      "攜帶彈藥量"
+    ],
+    "usageObj": {
+      "抗惡劣環境": "提升暴風雪抵抗力",
+      "射速增加": "提升射速",
+      "攜帶彈藥量": "提升攜帶彈藥量上限"
+    },
+    "image": "https://www.dropbox.com/s/77nccputte4qc4l/coming_soon.png?raw=1"
+  },
+  {
+    "name": "滷肉飯",
+    "recipes": [
+      "肉",
+      "禽蛋",
+      "大米",
+      "醬料"
+    ],
+    "recipeObj": {
+      "肉": "1",
+      "禽蛋": "1",
+      "大米": "1",
+      "醬料": "1"
+    },
+    "usages": [
+      "抗惡劣環境",
+      "傷害加成"
+    ],
+    "usageObj": {
+      "抗惡劣環境": "提升暴風雪抵抗力",
+      "傷害加成": "提升對人型怪物傷害"
+    },
+    "image": "https://www.dropbox.com/s/cjwgbhpqvw7ny2i/IMG_0445.png?raw=1"
+  },
+  {
+    "name": "豬扒包",
+    "recipes": [
+      "肉",
+      "醬料",
+      "麵粉"
+    ],
+    "recipeObj": {
+      "肉": "2",
+      "醬料": "1",
+      "麵粉": "1"
+    },
+    "usages": [
+      "射程增加",
+      "爆頭傷害"
+    ],
+    "usageObj": {
+      "射程增加": "提升射擊距離",
+      "爆頭傷害": "提升爆頭傷害"
+    },
+    "image": "https://www.dropbox.com/s/z7kzuon2alcbmja/IMG_0448.png?raw=1"
+  },
+  {
+    "name": "蝦籽撈面",
+    "recipes": [
+      "麵粉",
+      "明蝦",
+      "朝天椒",
+      "醬料"
+    ],
+    "recipeObj": {
+      "麵粉": "1",
+      "明蝦": "1",
+      "朝天椒": "1",
+      "醬料": "1"
+    },
+    "usages": [
+      "挖掘速度",
+      "採集暴擊"
+    ],
+    "usageObj": {
+      "採集速度": "提升挖掘效率",
+      "採集暴擊": "提升挖掘暴擊"
+    },
+    "image": "https://www.dropbox.com/s/trn36d40p51z0kc/IMG_0449.png?raw=1"
+  },
+  {
+    "name": "大米河粉",
+    "recipes": [
+      "大米",
+      "肉",
+      "朝天椒"
+    ],
+    "recipeObj": {
+      "大米": "2",
+      "肉": "1",
+      "朝天椒": "1"
+    },
+    "usages": [
+      "熟練度獲取",
+      "體力恢復加速"
+    ],
+    "usageObj": {
+      "熟練度獲取": "提升採集熟練度獲取效率",
+      "體力恢復加速": "提升體力恢復速度"
+    },
+    "image": "https://www.dropbox.com/s/h2qkxezamqhstsl/IMG_0438.png?raw=1"
+  },
+  {
+    "name": "不可描述的食物",
+    "recipes": [
+      "隨意"
+    ],
+    "recipeObj": {
+      "隨意": "就和你說要看食譜做吧~"
+    },
+    "usages": [
+      "無特殊屬性"
+    ],
+    "usageObj": {
+      "無特殊屬性": "充飢"
+    },
+    "image": "https://www.dropbox.com/s/o88foh8gvjz9977/IMG_0387.png?raw=1"
+  },
+  {
+    "name": "清燉魚湯",
+    "recipes": [
+      "魚類",
+      "冰塊"
+    ],
+    "recipeObj": {
+      "魚類": "2",
+      "冰塊": "2"
+    },
+    "usages": [
+      "改變體溫",
+      "去除感冒"
+    ],
+    "usageObj": {
+      "改變體溫": "回復體溫",
+      "去除感冒": "去除感冒"
+    },
+    "image": "https://www.dropbox.com/s/pgu51fc5zl5e562/IMG_0379.png?raw=1"
+  },
+  {
+    "name": "蔬菜魚丸湯",
+    "recipes": [
+      "魚類",
+      "蔬菜"
+    ],
+    "recipeObj": {
+      "魚類": "2",
+      "蔬菜": "2"
+    },
+    "usages": [
+      "最大氣息"
+    ],
+    "usageObj": {
+      "最大氣息": "提高最大力氣"
+    },
+    "image": "https://www.dropbox.com/s/z1jy25ehj97cn6b/IMG_0380.png?raw=1"
+  },
+  {
+    "name": "炸魚餅",
+    "recipes": [
+      "魚類",
+      "麵粉"
+    ],
+    "recipeObj": {
+      "魚類": "2",
+      "麵粉": "2"
+    },
+    "usages": [
+      "採集速度"
+    ],
+    "usageObj": {
+      "採集速度": "提升挖掘速度"
+    },
+    "image": "https://www.dropbox.com/s/wzakhqrjt14smgs/IMG_0344.png?raw=1"
+  },
+  {
+    "name": "麻辣水煮魚",
+    "recipes": [
+      "魚類",
+      "朝天椒"
+    ],
+    "recipeObj": {
+      "魚類": "2",
+      "朝天椒": "2"
+    },
+    "usages": [
+      "熟練度獲取"
+    ],
+    "usageObj": {
+      "熟練度獲取": "提升戰鬥熟練度獲取效率"
+    },
+    "image": "https://www.dropbox.com/s/54hbqby95r3d9mu/IMG_0386.png?raw=1"
+  },
+  {
+    "name": "鮮極蝦王湯",
+    "recipes": [
+      "魚類",
+      "河蟹",
+      "明蝦",
+      "特殊備註"
+    ],
+    "recipeObj": {
+      "魚類": "2",
+      "河蟹": "1",
+      "明蝦": "1",
+      "特殊備註": "需學習製作技能（獨家秘方2級）"
+    },
+    "usages": [
+      "移速加成"
+    ],
+    "usageObj": {
+      "移速加成": "大幅提升採集效率"
+    },
+    "image": "https://www.dropbox.com/s/7rug1qs5yzj24zv/IMG_0240.PNG?raw=1"
+  },
+  {
+    "name": "玉子燒",
+    "recipes": [
+      "魚類",
+      "牛奶",
+      "特殊備註"
+    ],
+    "recipeObj": {
+      "魚類": "2",
+      "牛奶": "2",
+      "特殊備註": "需學習製作技能（獨家秘方3級）"
+    },
+    "usages": [
+      "射速增加",
+      "射程增加",
+      "爆頭傷害"
+    ],
+    "usageObj": {
+      "射速增加": "大幅提升射速",
+      "射程增加": "大幅提升射程",
+      "爆頭傷害": "大幅提升爆頭傷害"
+    },
+    "image": "https://www.dropbox.com/s/8njjyvup37l3pqh/IMG_0238.PNG?raw=1"
+  },
+  {
+    "name": "烤肉",
+    "recipes": [
+      "肉"
+    ],
+    "recipeObj": {
+      "肉": "4"
+    },
+    "usages": [
+      "回復血量"
+    ],
+    "usageObj": {
+      "回復血量": "回復血量"
+    },
+    "image": "https://www.dropbox.com/s/l53plynirwkhvbh/IMG_0264.png?raw=1"
+  },
+  {
+    "name": "蛋羹",
+    "recipes": [
+      "禽蛋"
+    ],
+    "recipeObj": {
+      "禽蛋": "4"
+    },
+    "usages": [
+      "無特殊屬性"
+    ],
+    "usageObj": {
+      "無特殊屬性": "充飢"
+    },
+    "image": "https://www.dropbox.com/s/omfk1laqq5mgpfp/IMG_0210.PNG?raw=1"
+  },
+  {
+    "name": "肉串",
+    "recipes": [
+      "肉",
+      "水果"
+    ],
+    "recipeObj": {
+      "肉": "2",
+      "水果": "2"
+    },
+    "usages": [
+      "傷害加成"
+    ],
+    "usageObj": {
+      "傷害加成": "小幅提升對野生動物傷害"
+    },
+    "image": "https://www.dropbox.com/s/qzys2hwx7bu4iji/IMG_0272.png?raw=1"
+  },
+  {
+    "name": "肉丸子",
+    "recipes": [
+      "肉",
+      "蔬菜"
+    ],
+    "recipeObj": {
+      "肉": "2",
+      "蔬菜": "2"
+    },
+    "usages": [
+      "傷害加成"
+    ],
+    "usageObj": {
+      "傷害加成": "小幅提升對感染生物傷害"
+    },
+    "image": "https://www.dropbox.com/s/rbqe4p4luu90f4u/IMG_0273.png?raw=1"
+  },
+  {
+    "name": "蘑菇肉串",
+    "recipes": [
+      "肉",
+      "蘑菇"
+    ],
+    "recipeObj": {
+      "肉": "2",
+      "蘑菇": "2"
+    },
+    "usages": [
+      "暴擊率"
+    ],
+    "usageObj": {
+      "暴擊率": "小幅提升暴擊"
+    },
+    "image": "https://www.dropbox.com/s/0wqdf63rdqeu5r9/IMG_0295.png?raw=1"
+  },
+  {
+    "name": "蜜汁烤肉",
+    "recipes": [
+      "肉",
+      "蜂蜜"
+    ],
+    "recipeObj": {
+      "肉": "3",
+      "蜂蜜": "1"
+    },
+    "usages": [
+      "回復血量"
+    ],
+    "usageObj": {
+      "回復血量": "持續回復血量"
+    },
+    "image": "https://www.dropbox.com/s/suvzuhpjviw5pyx/IMG_0261.png?raw=1"
+  },
+  {
+    "name": "蜜澆蘑菇",
+    "recipes": [
+      "蘑菇",
+      "蜂蜜"
+    ],
+    "recipeObj": {
+      "蘑菇": "3",
+      "蜂蜜": "1"
+    },
+    "usages": [
+      "採集暴擊"
+    ],
+    "usageObj": {
+      "採集暴擊": "大幅提升採麻暴擊"
+    },
+    "image": "https://www.dropbox.com/s/9wl9haok0f48oux/IMG_0297.png?raw=1"
+  },
+  {
+    "name": "牛奶燉肉",
+    "recipes": [
+      "肉",
+      "牛奶"
+    ],
+    "recipeObj": {
+      "肉": "2",
+      "牛奶": "2"
+    },
+    "usages": [
+      "傷害加成"
+    ],
+    "usageObj": {
+      "傷害加成": "小幅提升對感染生物傷害"
+    },
+    "image": "https://www.dropbox.com/s/qkklc5dr2tnkoaf/IMG_0305.png?raw=1"
+  },
+  {
+    "name": "辣椒炒蛋",
+    "recipes": [
+      "朝天椒",
+      "禽蛋"
+    ],
+    "recipeObj": {
+      "朝天椒": "2",
+      "禽蛋": "2"
+    },
+    "usages": [
+      "無特殊屬性"
+    ],
+    "usageObj": {
+      "無特殊屬性": "充飢"
+    },
+    "image": "https://www.dropbox.com/s/pdk8ckr5m7qnkcd/IMG_0242.PNG?raw=1"
+  },
+  {
+    "name": "麻辣肉丁",
+    "recipes": [
+      "肉",
+      "朝天椒"
+    ],
+    "recipeObj": {
+      "肉": "2",
+      "朝天椒": "2"
+    },
+    "usages": [
+      "傷害加成"
+    ],
+    "usageObj": {
+      "傷害加成": "提升對建築傷害"
+    },
+    "image": "https://www.dropbox.com/s/byigeymyjtydo2x/IMG_0245.PNG?raw=1"
+  },
+  {
+    "name": "鮮肉蛋餃",
+    "recipes": [
+      "禽蛋",
+      "肉"
+    ],
+    "recipeObj": {
+      "禽蛋": "2",
+      "肉": "2"
+    },
+    "usages": [
+      "傷害加成"
+    ],
+    "usageObj": {
+      "傷害加成": "提升對動物傷害"
+    },
+    "image": "https://www.dropbox.com/s/l9nvl26uiu1wljd/IMG_0373.png?raw=1"
+  },
+  {
+    "name": "蔬菜蛋餅",
+    "recipes": [
+      "蔬菜",
+      "禽蛋"
+    ],
+    "recipeObj": {
+      "蔬菜": "2",
+      "禽蛋": "2"
+    },
+    "usages": [
+      "傷害加成"
+    ],
+    "usageObj": {
+      "傷害加成": "提升對感染者傷害"
+    },
+    "image": "https://www.dropbox.com/s/s7ajyyz0v9x3w7i/IMG_0466.png?raw=1"
+  },
+  {
+    "name": "蘑菇焗蛋",
+    "recipes": [
+      "禽蛋",
+      "蘑菇"
+    ],
+    "recipeObj": {
+      "禽蛋": "2",
+      "蘑菇": "2"
+    },
+    "usages": [
+      "傷害加成"
+    ],
+    "usageObj": {
+      "傷害加成": "提升對人型怪物傷害"
+    },
+    "image": "https://www.dropbox.com/s/23e9f0khd6bsky5/IMG_0218.PNG?raw=1"
+  },
+  {
+    "name": "蜂蜜蛋花湯",
+    "recipes": [
+      "蜂蜜",
+      "禽蛋"
+    ],
+    "recipeObj": {
+      "蜂蜜": "2",
+      "禽蛋": "2"
+    },
+    "usages": [
+      "改變體溫",
+      "去除感冒"
+    ],
+    "usageObj": {
+      "改變體溫": "恢復體溫",
+      "去除感冒": "去除感冒"
+    },
+    "image": "https://www.dropbox.com/s/sdaboeqtjg8w3j5/IMG_0228.PNG?raw=1"
+  },
+  {
+    "name": "椰子燉蛋",
+    "recipes": [
+      "椰子",
+      "禽蛋"
+    ],
+    "recipeObj": {
+      "椰子": "2",
+      "禽蛋": "2"
+    },
+    "usages": [
+      "最大氣息",
+      "游泳速度"
+    ],
+    "usageObj": {
+      "最大氣息": "提升最大氣息",
+      "游泳速度": "提升游泳速度"
+    },
+    "image": "https://www.dropbox.com/s/285lsy5ll7et7li/IMG_0241.PNG?raw=1"
+  },
+  {
+    "name": "椰香烤肉",
+    "recipes": [
+      "肉",
+      "椰子"
+    ],
+    "recipeObj": {
+      "肉": "2",
+      "椰子": "2"
+    },
+    "usages": [
+      "熟練度獲取"
+    ],
+    "usageObj": {
+      "熟練度獲取": "提升採集熟練度獲取效率"
+    },
+    "image": "https://www.dropbox.com/s/czlt9kqfgzyhi1z/IMG_0233.PNG?raw=1"
+  },
+  {
+    "name": "蝦仁焗蛋",
+    "recipes": [
+      "明蝦",
+      "禽蛋"
+    ],
+    "recipeObj": {
+      "明蝦": "2",
+      "禽蛋": "2"
+    },
+    "usages": [
+      "無特殊屬性"
+    ],
+    "usageObj": {
+      "無特殊屬性": "充飢"
+    },
+    "image": "https://www.dropbox.com/s/ek8ff9345c3tomz/IMG_0409.png?raw=1"
+  },
+  {
+    "name": "玉米肉碎",
+    "recipes": [
+      "肉",
+      "玉米"
+    ],
+    "recipeObj": {
+      "肉": "2",
+      "玉米": "2"
+    },
+    "usages": [
+      "傷害加成"
+    ],
+    "usageObj": {
+      "傷害加成": "提升對人型怪物傷害"
+    },
+    "image": "https://www.dropbox.com/s/3ud8hy1j20ybwy5/IMG_0399.png?raw=1"
+  },
+  {
+    "name": "營養煨燉",
+    "recipes": [
+      "肉",
+      "麵粉",
+      "牛奶"
+    ],
+    "recipeObj": {
+      "肉": "2",
+      "麵粉": "1",
+      "牛奶": "1"
+    },
+    "usages": [
+      "傷害加成"
+    ],
+    "usageObj": {
+      "傷害加成": "大幅提升對野生動物傷害"
+    },
+    "image": "https://www.dropbox.com/s/8gr4zu6qjb9xpur/IMG_0323.png?raw=1"
+  },
+  {
+    "name": "水煮肉片",
+    "recipes": [
+      "肉",
+      "蔬菜",
+      "朝天椒",
+      "特殊備註"
+    ],
+    "recipeObj": {
+      "肉": "2",
+      "蔬菜": "1",
+      "朝天椒": "1",
+      "特殊備註": "不能2肉1朝天椒1胡蘿蔔"
+    },
+    "usages": [
+      "熟練度獲取"
+    ],
+    "usageObj": {
+      "熟練度獲取": "提升戰鬥熟練度獲取效率"
+    },
+    "image": "https://www.dropbox.com/s/f4h43943iqtgcco/IMG_0247.PNG?raw=1"
+  },
+  {
+    "name": "甜辣小丸子",
+    "recipes": [
+      "肉",
+      "蜂蜜",
+      "朝天椒"
+    ],
+    "recipeObj": {
+      "肉": "2",
+      "蜂蜜": "1",
+      "朝天椒": "1"
+    },
+    "usages": [
+      "傷害加成",
+      "熟練度獲取"
+    ],
+    "usageObj": {
+      "傷害加成": "提升對感染者傷害",
+      "熟練度獲取": "提升戰鬥熟練度獲取效率"
+    },
+    "image": "https://www.dropbox.com/s/xnetnzlkd1n0yiw/IMG_0231.PNG?raw=1"
+  },
+  {
+    "name": "什錦拼盤",
+    "recipes": [
+      "肉",
+      "蔬菜",
+      "水果",
+      "蘑菇"
+    ],
+    "recipeObj": {
+      "肉": "1",
+      "蔬菜": "1",
+      "水果": "1",
+      "蘑菇": "1"
+    },
+    "usages": [
+      "採集暴擊"
+    ],
+    "usageObj": {
+      "採集暴擊": "可提升對砍樹暴擊、挖掘暴擊"
+    },
+    "image": "https://www.dropbox.com/s/boq3nu6ycadv1c3/IMG_0301.png?raw=1"
+  },
+  {
+    "name": "肉排大餐",
+    "recipes": [
+      "肉",
+      "蔬菜",
+      "蘑菇"
+    ],
+    "recipeObj": {
+      "肉": "2",
+      "蔬菜": "1",
+      "蘑菇": "1"
+    },
+    "usages": [
+      "回復血量"
+    ],
+    "usageObj": {
+      "回復血量": "長時間持續回復血量"
+    },
+    "image": "https://www.dropbox.com/s/euu4zdjecj2anji/IMG_0303.png?raw=1"
+  },
+  {
+    "name": "麻辣香鍋",
+    "recipes": [
+      "肉",
+      "蔬菜",
+      "蘑菇",
+      "朝天椒"
+    ],
+    "recipeObj": {
+      "肉": "1",
+      "蔬菜": "1",
+      "蘑菇": "1",
+      "朝天椒": "1"
+    },
+    "usages": [
+      "暴擊率",
+      "熟練度獲取"
+    ],
+    "usageObj": {
+      "暴擊率": "提升暴擊率",
+      "熟練度獲取": "提升戰鬥熟練度獲取效率"
+    },
+    "image": "https://www.dropbox.com/s/ox87pmieaa3kmjz/IMG_0239.PNG?raw=1"
+  },
+  {
+    "name": "胡蘿蔔肉餅",
+    "recipes": [
+      "肉",
+      "胡蘿蔔"
+    ],
+    "recipeObj": {
+      "肉": "2",
+      "胡蘿蔔": "2"
+    },
+    "usages": [
+      "傷害加成"
+    ],
+    "usageObj": {
+      "傷害加成": "小幅提升對野生動物傷害"
+    },
+    "image": "https://www.dropbox.com/s/1gxyxib5ry8xfiu/IMG_0304.png?raw=1"
+  },
+  {
+    "name": "魚香肉絲",
+    "recipes": [
+      "朝天椒",
+      "胡蘿蔔",
+      "肉"
+    ],
+    "recipeObj": {
+      "朝天椒": "1",
+      "胡蘿蔔": "1",
+      "肉": "2"
+    },
+    "usages": [
+      "回復血量"
+    ],
+    "usageObj": {
+      "回復血量": "回復血量"
+    },
+    "image": "https://www.dropbox.com/s/9lpvpgxx6vg5aug/IMG_0370.png?raw=1"
+  },
+  {
+    "name": "香辣梭子蟹",
+    "recipes": [
+      "特定海鮮類",
+      "朝天椒"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "梭子蟹: 2",
+      "朝天椒": "2"
+    },
+    "usages": [
+      "無特殊屬性"
+    ],
+    "usageObj": {
+      "無特殊屬性": "充飢"
+    },
+    "image": "https://www.dropbox.com/s/xm5nuvnf130uhuz/IMG_0213.PNG?raw=1"
+  },
+  {
+    "name": "炸魷魚圈",
+    "recipes": [
+      "麵粉",
+      "魷魚"
+    ],
+    "recipeObj": {
+      "麵粉": "2",
+      "魷魚": "2"
+    },
+    "usages": [
+      "游泳速度"
+    ],
+    "usageObj": {
+      "游泳速度": "提升游泳速度"
+    },
+    "image": "https://www.dropbox.com/s/xlvif3wjc1ibwx8/IMG_0208.PNG?raw=1"
+  },
+  {
+    "name": "香辣魷魚鬚",
+    "recipes": [
+      "特定海鮮類",
+      "朝天椒"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "魷魚: 2",
+      "朝天椒": "2"
+    },
+    "usages": [
+      "游泳速度"
+    ],
+    "usageObj": {
+      "游泳速度": "提升游泳速度"
+    },
+    "image": "https://www.dropbox.com/s/2sfugp6jb5wfun5/IMG_0229.PNG?raw=1"
+  },
+  {
+    "name": "麻辣海鮮香鍋",
+    "recipes": [
+      "梭子蟹",
+      "魷魚",
+      "明蝦",
+      "朝天椒"
+    ],
+    "recipeObj": {
+      "梭子蟹": "1",
+      "魷魚": "1",
+      "明蝦": "1",
+      "朝天椒": "1"
+    },
+    "usages": [
+      "傷害加成",
+      "熟練度獲取"
+    ],
+    "usageObj": {
+      "傷害加成": "全面提升戰鬥能力",
+      "熟練度獲取": "提升戰鬥熟練度獲取效率"
+    },
+    "image": "https://www.dropbox.com/s/md71nzypv0e8w51/IMG_0224.PNG?raw=1"
+  },
+  {
+    "name": "蒸河蝦",
+    "recipes": [
+      "特定海鮮類",
+      "隨意"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "明蝦: 1",
+      "隨意": "3肉或3水果"
+    },
+    "usages": [
+      "無特殊屬性"
+    ],
+    "usageObj": {
+      "無特殊屬性": "充飢"
+    },
+    "image": "https://www.dropbox.com/s/ysjtdyxn6o759gz/IMG_0328.png?raw=1"
+  },
+  {
+    "name": "蒸螃蟹",
+    "recipes": [
+      "特定海鮮類",
+      "隨意"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "河蟹: 1",
+      "隨意": "3肉或3水果"
+    },
+    "usages": [
+      "無特殊屬性"
+    ],
+    "usageObj": {
+      "無特殊屬性": "充飢"
+    },
+    "image": "https://www.dropbox.com/s/9jb08kr6tp6uqle/IMG_0329.png?raw=1"
+  },
+  {
+    "name": "烤草魚",
+    "recipes": [
+      "特定海鮮類",
+      "隨意"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "草魚: 1",
+      "隨意": "3肉或3水果"
+    },
+    "usages": [
+      "採集速度"
+    ],
+    "usageObj": {
+      "採集速度": "小幅提升伐木速度"
+    },
+    "image": "https://www.dropbox.com/s/meugv1dqz9jx78i/IMG_0309.png?raw=1"
+  },
+  {
+    "name": "烤鯉魚",
+    "recipes": [
+      "特定海鮮類",
+      "隨意"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "鯉魚: 1",
+      "隨意": "3肉或3水果"
+    },
+    "usages": [
+      "採集速度"
+    ],
+    "usageObj": {
+      "採集速度": "小幅提升採集速度"
+    },
+    "image": "https://www.dropbox.com/s/hb3rndw87vmq4p3/IMG_0308.png?raw=1"
+  },
+  {
+    "name": "烤河豚",
+    "recipes": [
+      "特定海鮮類",
+      "隨意"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "河豚: 1",
+      "隨意": "3肉或3水果"
+    },
+    "usages": [
+      "回復血量"
+    ],
+    "usageObj": {
+      "回復血量": "大幅回復生命值"
+    },
+    "image": "https://www.dropbox.com/s/nxr14cixeynbs69/IMG_0307.png?raw=1"
+  },
+  {
+    "name": "烤鯰魚",
+    "recipes": [
+      "特定海鮮類",
+      "隨意"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "鯰魚: 1",
+      "隨意": "3肉或3水果"
+    },
+    "usages": [
+      "採集速度"
+    ],
+    "usageObj": {
+      "採集速度": "小幅提升挖掘速度"
+    },
+    "image": "https://www.dropbox.com/s/0y62fymac3es6lq/IMG_0306.png?raw=1"
+  },
+  {
+    "name": "烤大黃魚",
+    "recipes": [
+      "特定海鮮類",
+      "隨意"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "大黃魚: 1",
+      "隨意": "3肉或3水果"
+    },
+    "usages": [
+      "回復血量"
+    ],
+    "usageObj": {
+      "回復血量": "大幅回復血量"
+    },
+    "image": "https://www.dropbox.com/s/8tb2dnbswdy7dsf/IMG_0331.png?raw=1"
+  },
+  {
+    "name": "烤梭子蟹",
+    "recipes": [
+      "特定海鮮類",
+      "隨意"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "梭子蟹: 1",
+      "隨意": "3肉或3水果"
+    },
+    "usages": [
+      "無特殊屬性"
+    ],
+    "usageObj": {
+      "無特殊屬性": "充飢"
+    },
+    "image": "https://www.dropbox.com/s/vsj2zu35imhmvfs/IMG_0372.png?raw=1"
+  },
+  {
+    "name": "烤鮁魚",
+    "recipes": [
+      "特定海鮮類",
+      "隨意"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "鮁魚: 1",
+      "隨意": "3肉或3水果"
+    },
+    "usages": [
+      "無特殊屬性"
+    ],
+    "usageObj": {
+      "無特殊屬性": "充飢"
+    },
+    "image": "https://www.dropbox.com/s/xr8wju6prxdsihc/IMG_0360.png?raw=1"
+  },
+  {
+    "name": "烤鱸魚",
+    "recipes": [
+      "特定海鮮類",
+      "隨意"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "條紋鱸魚: 1",
+      "隨意": "3肉或3水果"
+    },
+    "usages": [
+      "回復血量"
+    ],
+    "usageObj": {
+      "回復血量": "每秒回復血量"
+    },
+    "image": "https://www.dropbox.com/s/i9kj2q60a2ii0pn/IMG_0385.png?raw=1"
+  },
+  {
+    "name": "烤鱖魚",
+    "recipes": [
+      "特定海鮮類",
+      "隨意"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "鱖魚: 1",
+      "隨意": "3肉或3水果"
+    },
+    "usages": [
+      "回復血量"
+    ],
+    "usageObj": {
+      "回復血量": "大幅回復生命值"
+    },
+    "image": "https://www.dropbox.com/s/2rmkibicvam3805/IMG_0310.png?raw=1"
+  },
+  {
+    "name": "烤銀鯧魚",
+    "recipes": [
+      "特定海鮮類",
+      "隨意"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "銀鯧魚: 1",
+      "隨意": "3肉或3水果"
+    },
+    "usages": [
+      "最大氣息"
+    ],
+    "usageObj": {
+      "最大氣息": "大幅提高最大氣息量"
+    },
+    "image": "https://www.dropbox.com/s/oi3kb0r95idl8cq/IMG_0332.png?raw=1"
+  },
+  {
+    "name": "烤帶魚",
+    "recipes": [
+      "特定海鮮類",
+      "隨意"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "帶魚: 1",
+      "隨意": "3肉或3水果"
+    },
+    "usages": [
+      "採集速度"
+    ],
+    "usageObj": {
+      "採集速度": "大幅提升砍樹速度"
+    },
+    "image": "https://www.dropbox.com/s/1bbeezzpqlfimaw/IMG_0333.png?raw=1"
+  },
+  {
+    "name": "烤多寶魚",
+    "recipes": [
+      "特定海鮮類",
+      "隨意"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "多寶魚: 1",
+      "隨意": "3肉或3水果"
+    },
+    "usages": [
+      "採集速度"
+    ],
+    "usageObj": {
+      "採集速度": "大幅提升挖掘速度"
+    },
+    "image": "https://www.dropbox.com/s/z1zm9917n73fmg6/IMG_0253.PNG?raw=1"
+  },
+  {
+    "name": "烤海豬魚",
+    "recipes": [
+      "特定海鮮類",
+      "隨意"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "雲斑海豬魚: 1",
+      "隨意": "3肉或3水果"
+    },
+    "usages": [
+      "回復血量"
+    ],
+    "usageObj": {
+      "回復血量": "回復血量"
+    },
+    "image": "https://www.dropbox.com/s/q6ei8itp7ngv6kp/IMG_0367.png?raw=1"
+  },
+  {
+    "name": "烤鰻魚",
+    "recipes": [
+      "特定海鮮類",
+      "隨意"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "海鰻魚: 1",
+      "隨意": "3肉或3水果"
+    },
+    "usages": [
+      "採集速度"
+    ],
+    "usageObj": {
+      "採集速度": "提升伐木速度、挖掘速度"
+    },
+    "image": "https://www.dropbox.com/s/ymv56uzreephrk7/IMG_0217.PNG?raw=1"
+  },
+  {
+    "name": "烤石斑魚",
+    "recipes": [
+      "特定海鮮類",
+      "隨意"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "紅石斑魚: 1",
+      "隨意": "3肉或3水果"
+    },
+    "usages": [
+      "採集速度"
+    ],
+    "usageObj": {
+      "採集速度": "大幅提升採麻速度"
+    },
+    "image": "https://www.dropbox.com/s/hgcvxo0ymhmwxbs/IMG_0337.png?raw=1"
+  },
+  {
+    "name": "烤鱒魚:",
+    "recipes": [
+      "特定海鮮類",
+      "隨意"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "虹鱒魚: 1",
+      "隨意": "3肉或3水果"
+    },
+    "usages": [
+      "移速加成"
+    ],
+    "usageObj": {
+      "移速加成": "提升移動速度"
+    },
+    "image": "https://www.dropbox.com/s/bmgi733e14ew3ya/IMG_0378.png?raw=1"
+  },
+  {
+    "name": "烤鮭魚",
+    "recipes": [
+      "特定海鮮類",
+      "隨意"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "鮭魚: 1",
+      "隨意": "3肉或3水果"
+    },
+    "usages": [
+      "採集速度",
+      "採集暴擊"
+    ],
+    "usageObj": {
+      "採集速度": "大幅提升採麻速度",
+      "採集暴擊": "採麻暴擊"
+    },
+    "image": "https://www.dropbox.com/s/tasajmgtx6xz2fx/IMG_0215.PNG?raw=1"
+  },
+  {
+    "name": "烤羅非魚",
+    "recipes": [
+      "特定海鮮類",
+      "隨意"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "紅羅非魚: 1",
+      "隨意": "3肉或3水果"
+    },
+    "usages": [
+      "採集速度"
+    ],
+    "usageObj": {
+      "採集速度": "大幅提升挖掘速度、挖掘暴擊"
+    },
+    "image": "https://www.dropbox.com/s/6br8nm4hs54gwqk/IMG_0336.png?raw=1"
+  },
+  {
+    "name": "烤鸚鵡魚",
+    "recipes": [
+      "特定海鮮類",
+      "隨意"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "鸚鵡魚: 1",
+      "隨意": "3肉或3水果"
+    },
+    "usages": [
+      "採集速度",
+      "採集暴擊"
+    ],
+    "usageObj": {
+      "採集速度": "大幅提升砍樹速度",
+      "採集暴擊": "砍樹暴擊"
+    },
+    "image": "https://www.dropbox.com/s/bjh0pn2zh6e5jpu/IMG_0413.png?raw=1"
+  },
+  {
+    "name": "烤蘇眉魚",
+    "recipes": [
+      "特定海鮮類",
+      "隨意"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "蘇眉魚: 1",
+      "隨意": "3肉或3水果"
+    },
+    "usages": [
+      "採集速度"
+    ],
+    "usageObj": {
+      "採集速度": "大幅提升砍樹速度、挖掘速度"
+    },
+    "image": "https://www.dropbox.com/s/hblddtpg19ub2y3/IMG_0412.png?raw=1"
+  },
+  {
+    "name": "烤甲魚",
+    "recipes": [
+      "特定海鮮類",
+      "隨意"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "甲魚: 1",
+      "隨意": "3肉或3水果"
+    },
+    "usages": [
+      "熟練度獲取"
+    ],
+    "usageObj": {
+      "熟練度獲取": "提升採集熟練度獲取效率"
+    },
+    "image": "https://www.dropbox.com/s/n1fw8509bl6whv4/IMG_0382.png?raw=1"
+  },
+  {
+    "name": "烤雞魚",
+    "recipes": [
+      "特定海鮮類",
+      "隨意"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "雞魚: 1",
+      "隨意": "3肉或3水果"
+    },
+    "usages": [
+      "採集速度"
+    ],
+    "usageObj": {
+      "採集速度": "提升伐木速度、採集速度"
+    },
+    "image": "https://www.dropbox.com/s/8cvxs9dxut5ww6t/IMG_0376.png?raw=1"
+  },
+  {
+    "name": "烤魷魚",
+    "recipes": [
+      "特定海鮮類",
+      "隨意"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "魷魚: 1",
+      "隨意": "3肉或3水果"
+    },
+    "usages": [
+      "採集速度"
+    ],
+    "usageObj": {
+      "採集速度": "提升挖掘速度、採集速度"
+    },
+    "image": "https://www.dropbox.com/s/gim5xoo56z60mx8/IMG_0377.png?raw=1"
+  },
+  {
+    "name": "烤太陽魚",
+    "recipes": [
+      "特定海鮮類",
+      "隨意"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "藍鰓太陽魚: 1",
+      "隨意": "3肉或3水果"
+    },
+    "usages": [
+      "回復血量"
+    ],
+    "usageObj": {
+      "回復血量": "持續回復血量"
+    },
+    "image": "https://www.dropbox.com/s/aq3i46bjrd17sbv/IMG_0369.png?raw=1"
+  },
+  {
+    "name": "剁椒魚頭",
+    "recipes": [
+      "特定海鮮類",
+      "朝天椒"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "鳙魚: 任意數量",
+      "朝天椒": "任意數量"
+    },
+    "usages": [
+      "傷害加成"
+    ],
+    "usageObj": {
+      "傷害加成": "大幅提升戰鬥力"
+    },
+    "image": "https://www.dropbox.com/s/fxou5j7lti8mapg/IMG_0383.png?raw=1"
+  },
+  {
+    "name": "清蒸鰣魚",
+    "recipes": [
+      "特定海鮮類",
+      "隨意"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "鰣魚: 1",
+      "隨意": "3肉或3水果"
+    },
+    "usages": [
+      "採集速度"
+    ],
+    "usageObj": {
+      "採集速度": "大幅提升伐木效率"
+    },
+    "image": "https://www.dropbox.com/s/628oyenqpb8i2er/IMG_0202.PNG?raw=1"
+  },
+  {
+    "name": "紅燒蛇魚",
+    "recipes": [
+      "特定海鮮類",
+      "隨意"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "蛇魚: 1",
+      "隨意": "3肉或3水果"
+    },
+    "usages": [
+      "採集暴擊"
+    ],
+    "usageObj": {
+      "採集暴擊": "大幅提升挖礦效率"
+    },
+    "image": "https://www.dropbox.com/s/po22tgspl6f68o0/IMG_0203.PNG?raw=1"
+  },
+  {
+    "name": "炭烤紅鯛魚",
+    "recipes": [
+      "特定海鮮類",
+      "隨意"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "紅鯛魚: 1",
+      "隨意": "3肉或3水果"
+    },
+    "usages": [
+      "移速加成"
+    ],
+    "usageObj": {
+      "移速加成": "大幅提升體質和運動能力"
+    },
+    "image": "https://www.dropbox.com/s/jeks714jmp8lwfr/IMG_0390.png?raw=1"
+  },
+  {
+    "name": "烤秋刀魚",
+    "recipes": [
+      "特定海鮮類",
+      "隨意"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "秋刀魚: 1",
+      "隨意": "3肉或3水果"
+    },
+    "usages": [
+      "採集速度"
+    ],
+    "usageObj": {
+      "採集速度": "大幅提升採麻效率"
+    },
+    "image": "https://www.dropbox.com/s/1r98me2iw7772p2/IMG_0375.png?raw=1"
+  },
+  {
+    "name": "油炸雨魚",
+    "recipes": [
+      "特定海鮮類",
+      "隨意"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "雨魚: 1",
+      "隨意": "3肉或3水果"
+    },
+    "usages": [
+      "熟練度獲取"
+    ],
+    "usageObj": {
+      "熟練度獲取": "大幅提升戰鬥熟練度獲得效率"
+    },
+    "image": "https://www.dropbox.com/s/77nccputte4qc4l/coming_soon.png?raw=1"
+  },
+  {
+    "name": "火鼠魚料理",
+    "recipes": [
+      "特定海鮮類",
+      "隨意"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "火鼠魚: 1",
+      "隨意": "3肉或3水果"
+    },
+    "usages": [
+      "傷害加成"
+    ],
+    "usageObj": {
+      "傷害加成": "大幅提升戰鬥力"
+    },
+    "image": "https://www.dropbox.com/s/77nccputte4qc4l/coming_soon.png?raw=1"
+  },
+  {
+    "name": "香煎冰棘魚",
+    "recipes": [
+      "特定海鮮類",
+      "隨意"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "冰棘魚: 1",
+      "隨意": "3肉或3水果"
+    },
+    "usages": [
+      "採集暴擊"
+    ],
+    "usageObj": {
+      "採集暴擊": "大幅提升伐木效率"
+    },
+    "image": "https://www.dropbox.com/s/77nccputte4qc4l/coming_soon.png?raw=1"
+  },
+  {
+    "name": "白條魚生",
+    "recipes": [
+      "特定海鮮類",
+      "冰塊"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "白鰷魚: 3",
+      "冰塊": "1"
+    },
+    "usages": [
+      "熟練度獲取"
+    ],
+    "usageObj": {
+      "熟練度獲取": "大幅提升採集熟練度獲得效率"
+    },
+    "image": "https://www.dropbox.com/s/77nccputte4qc4l/coming_soon.png?raw=1"
+  },
+  {
+    "name": "煎龍利魚",
+    "recipes": [
+      "特定海鮮類",
+      "隨意"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "龍利魚: 1",
+      "隨意": "3肉或3水果"
+    },
+    "usages": [
+      "採集暴擊"
+    ],
+    "usageObj": {
+      "採集暴擊": "大幅提升挖礦麻效率"
+    },
+    "image": "https://www.dropbox.com/s/77nccputte4qc4l/coming_soon.png?raw=1"
+  },
+  {
+    "name": "金槍魚生",
+    "recipes": [
+      "特定海鮮類",
+      "冰塊"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "金槍魚: 3",
+      "冰塊": "1"
+    },
+    "usages": [
+      "採集暴擊"
+    ],
+    "usageObj": {
+      "採集暴擊": "大幅提升採麻效率"
+    },
+    "image": "https://www.dropbox.com/s/77nccputte4qc4l/coming_soon.png?raw=1"
+  },
+  {
+    "name": "龍蝦大餐",
+    "recipes": [
+      "特定海鮮類",
+      "水果"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "龍蝦: 1",
+      "水果": "3"
+    },
+    "usages": [
+      "生命上限"
+    ],
+    "usageObj": {
+      "生命上限": "提升血量上限"
+    },
+    "image": "https://www.dropbox.com/s/o542x7a4a4w9xa4/IMG_0212.PNG?raw=1"
+  },
+  {
+    "name": "錦鯉刺身",
+    "recipes": [
+      "特定海鮮類",
+      "水果"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "錦鯉: 1",
+      "水果": "3"
+    },
+    "usages": [
+      "回復血量",
+      "暴擊率",
+      "移速加成",
+      "採集暴擊",
+      "傷害加成"
+    ],
+    "usageObj": {
+      "回復血量": "持續回復血量",
+      "暴擊率": "提升暴擊率",
+      "移速加成": "提升移動速度",
+      "採集暴擊": "提升採集資源暴擊率",
+      "傷害加成": "提升對人型怪物傷害"
+    },
+    "image": "https://www.dropbox.com/s/77nccputte4qc4l/coming_soon.png?raw=1"
+  },
+  {
+    "name": "南瓜小丑派",
+    "recipes": [
+      "麵粉",
+      "小丑魚",
+      "南瓜",
+      "特殊備註"
+    ],
+    "recipeObj": {
+      "麵粉": "2",
+      "小丑魚": "1",
+      "南瓜": "1",
+      "特殊備註": "2019萬聖節限定"
+    },
+    "usages": [
+      "採集速度"
+    ],
+    "usageObj": {
+      "採集速度": "大幅提升挖礦效率"
+    },
+    "image": "https://www.dropbox.com/s/qh2wno6g6laxg4y/IMG_0374.png?raw=1"
+  },
+  {
+    "name": "烤魔鬼魚",
+    "recipes": [
+      "魔鬼魚",
+      "朝天椒",
+      "特殊備註"
+    ],
+    "recipeObj": {
+      "魔鬼魚": "1",
+      "朝天椒": "3",
+      "特殊備註": "2019萬聖節限定"
+    },
+    "usages": [
+      "傷害加成"
+    ],
+    "usageObj": {
+      "傷害加成": "大幅提升戰鬥力"
+    },
+    "image": "https://www.dropbox.com/s/9p443dgsryqzsgw/IMG_0384.png?raw=1"
+  },
+  {
+    "name": "生魚片壽司",
+    "recipes": [
+      "大米",
+      "蔬菜",
+      "魚類"
+    ],
+    "recipeObj": {
+      "大米": "1",
+      "蔬菜": "1",
+      "魚類": "2"
+    },
+    "usages": [
+      "抗惡劣環境",
+      "採集暴擊"
+    ],
+    "usageObj": {
+      "抗惡劣環境": "提升暴風雪抵抗力",
+      "採集暴擊": "提升挖礦資源暴擊率/挖礦副資源暴擊率"
+    },
+    "image": "https://www.dropbox.com/s/wxqvmnamfx2cw5u/IMG_0216.PNG?raw=1"
+  },
+  {
+    "name": "米粉蒸肉",
+    "recipes": [
+      "肉",
+      "大米",
+      "醬料",
+      "特殊備註"
+    ],
+    "recipeObj": {
+      "肉": "1",
+      "大米": "2",
+      "醬料": "1",
+      "特殊備註": "不能2肉1大米1醬料"
+    },
+    "usages": [
+      "冷兵器揮擊速度",
+      "抗惡劣環境",
+      "生命上限"
+    ],
+    "usageObj": {
+      "冷兵器揮擊速度": "提升冷兵器揮擊速度",
+      "抗惡劣環境": "提升沼澤抵抗力",
+      "生命上限": "提升生命上限"
+    },
+    "image": "https://www.dropbox.com/s/cct9dybb5mu3ob4/IMG_0403.png?raw=1"
+  },
+  {
+    "name": "螞蟻上樹",
+    "recipes": [
+      "粉絲",
+      "肉",
+      "朝天椒"
+    ],
+    "recipeObj": {
+      "粉絲": "2",
+      "肉": "1",
+      "朝天椒": "1"
+    },
+    "usages": [
+      "抗惡劣環境",
+      "熟練度獲取",
+      "射速增加"
+    ],
+    "usageObj": {
+      "抗惡劣環境": "提升沙塵暴抵抗力",
+      "熟練度獲取": "提升射擊獲得戰鬥熟練度",
+      "射速增加": "提升射速"
+    },
+    "image": "https://www.dropbox.com/s/mos15fwnfl1caeo/IMG_0243.PNG?raw=1"
+  },
+  {
+    "name": "熊掌豆腐",
+    "recipes": [
+      "肉",
+      "豆腐",
+      "蔥薑蒜"
+    ],
+    "recipeObj": {
+      "肉": "1",
+      "豆腐": "2",
+      "蔥薑蒜": "1"
+    },
+    "usages": [
+      "換彈加速",
+      "射速增加",
+      "移速加成"
+    ],
+    "usageObj": {
+      "換彈加速": "提升換彈加速",
+      "射速增加": "提升射速",
+      "移速加成": "提升移動速度"
+    },
+    "image": "https://www.dropbox.com/s/kmf98nbdvabx8cn/IMG_0388.png?raw=1"
+  },
+  {
+    "name": "毛血旺",
+    "recipes": [
+      "動物內臟",
+      "肉",
+      "調料",
+      "朝天椒"
+    ],
+    "recipeObj": {
+      "動物內臟": "1",
+      "肉": "1",
+      "調料": "1",
+      "朝天椒": "1"
+    },
+    "usages": [
+      "回復血量",
+      "傷害加成",
+      "熟練度獲取"
+    ],
+    "usageObj": {
+      "回復血量": "生命持續恢復",
+      "傷害加成": "提升對人型怪物傷害",
+      "熟練度獲取": "提升射擊獲得戰鬥熟練度"
+    },
+    "image": " https://www.dropbox.com/s/d2v8isnd46ytcbb/IMG_0394.png?raw=1"
+  },
+  {
+    "name": "回鍋肉",
+    "recipes": [
+      "肉",
+      "醬料",
+      "蔥薑蒜"
+    ],
+    "recipeObj": {
+      "肉": "2",
+      "醬料": "1",
+      "蔥薑蒜": "1"
+    },
+    "usages": [
+      "回復血量",
+      "攜帶彈藥量",
+      "換彈加速"
+    ],
+    "usageObj": {
+      "回復血量": "回復血量",
+      "攜帶彈藥量": "提升攜帶彈藥量上限",
+      "換彈加速": "彈跳高度提升百分比"
+    },
+    "image": "https://www.dropbox.com/s/5j3f2e1rhbvxktc/IMG_0392.png?raw=1"
+  },
+  {
+    "name": "乾煸肥腸",
+    "recipes": [
+      "動物內臟",
+      "朝天椒"
+    ],
+    "recipeObj": {
+      "動物內臟": "2",
+      "朝天椒": "2"
+    },
+    "usages": [
+      "傷害加成",
+      "射程增加"
+    ],
+    "usageObj": {
+      "傷害加成": "提升對建築傷害",
+      "射程增加": "提升射程"
+    },
+    "image": "https://www.dropbox.com/s/xa9rif0j8clxkyd/IMG_0252.PNG?raw=1"
+  },
+  {
+    "name": "夫妻肺片",
+    "recipes": [
+      "動物內臟",
+      "食用油",
+      "朝天椒",
+      "特殊備註"
+    ],
+    "recipeObj": {
+      "動物內臟": "2",
+      "食用油": "1",
+      "朝天椒": "1",
+      "特殊備註": "需要找NPC夏冬涼購買"
+    },
+    "usages": [
+      "傷害加成",
+      "爆頭傷害",
+      "射速增加"
+    ],
+    "usageObj": {
+      "傷害加成": "提升對感染單位傷害",
+      "爆頭傷害": "大幅提升爆頭傷害",
+      "射速增加": "大幅提升射速"
+    },
+    "image": "https://www.dropbox.com/s/77nccputte4qc4l/coming_soon.png?raw=1"
+  },
+  {
+    "name": "上湯龍蝦",
+    "recipes": [
+      "蔬菜",
+      "麵粉",
+      "明蝦"
+    ],
+    "recipeObj": {
+      "蔬菜": "1",
+      "麵粉": "1",
+      "明蝦": "2"
+    },
+    "usages": [
+      "採集暴擊",
+      "採集速度"
+    ],
+    "usageObj": {
+      "採集暴擊": "提升挖掘資源暴擊率/挖掘副資源暴擊率",
+      "採集速度": "挖掘適用"
+    },
+    "image": "https://www.dropbox.com/s/0jbdztmh143p4yo/IMG_0207.PNG?raw=1"
+  },
+  {
+    "name": "椒鹽賴尿蝦",
+    "recipes": [
+      "調料",
+      "蔥薑蒜",
+      "賴尿蝦"
+    ],
+    "recipeObj": {
+      "調料": "1",
+      "蔥薑蒜": "1",
+      "賴尿蝦": "2"
+    },
+    "usages": [
+      "熟練度獲取",
+      "游泳速度",
+      "奔跑消耗體力減少"
+    ],
+    "usageObj": {
+      "熟練度獲取": "提升勞動時採集熟練度",
+      "游泳速度": "提升游泳速度",
+      "奔跑消耗體力減少": "奔跑體力消耗減少"
+    },
+    "image": "https://www.dropbox.com/s/77nccputte4qc4l/coming_soon.png?raw=1"
+  },
+  {
+    "name": "滷水拼盤",
+    "recipes": [
+      "禽蛋",
+      "醬料",
+      "動物內臟"
+    ],
+    "recipeObj": {
+      "禽蛋": "1",
+      "醬料": "1",
+      "動物內臟": "2"
+    },
+    "usages": [
+      "補彈消耗降低",
+      "傷害加成",
+      "暴擊減免"
+    ],
+    "usageObj": {
+      "補彈消耗降低": "補彈彈藥消耗降低",
+      "傷害加成": "提升對野生動物傷害",
+      "暴擊減免": "提升免爆"
+    },
+    "image": "https://www.dropbox.com/s/x7optp2a8cxals6/IMG_0473.png?raw=1"
+  },
+  {
+    "name": "乾蒸",
+    "recipes": [
+      "肉",
+      "禽蛋",
+      "調料"
+    ],
+    "recipeObj": {
+      "肉": "1",
+      "禽蛋": "2",
+      "調料": "1"
+    },
+    "usages": [
+      "冷兵器揮擊速度",
+      "體力上限",
+      "移速加成"
+    ],
+    "usageObj": {
+      "冷兵器揮擊速度": "提升冷兵器揮擊速度",
+      "體力上限": "提升氣力上限添加率",
+      "移速加成": "提升移動速度"
+    },
+    "image": "https://www.dropbox.com/s/etg9nvyg7dg273a/IMG_0472.png?raw=1"
+  },
+  {
+    "name": "脆皮燒肉",
+    "recipes": [
+      "肉",
+      "調料"
+    ],
+    "recipeObj": {
+      "肉": "2",
+      "調料": "2"
+    },
+    "usages": [
+      "移速加成",
+      "爆頭傷害"
+    ],
+    "usageObj": {
+      "移速加成": "提升移動速度",
+      "爆頭傷害": "提升爆頭傷害"
+    },
+    "image": "https://www.dropbox.com/s/61t8qxrasy46k2j/IMG_0251.PNG?raw=1"
+  },
+  {
+    "name": "鹹蛋蒸肉餅",
+    "recipes": [
+      "大米",
+      "肉",
+      "禽蛋"
+    ],
+    "recipeObj": {
+      "大米": "1",
+      "肉": "2",
+      "禽蛋": "1"
+    },
+    "usages": [
+      "補彈消耗降低",
+      "傷害加成",
+      "抗惡劣環境"
+    ],
+    "usageObj": {
+      "補彈消耗降低": "補彈彈藥消耗降低",
+      "傷害加成": "提升對人型怪物傷害",
+      "抗惡劣環境": "提升暴風雪抵抗力"
+    },
+    "image": "https://www.dropbox.com/s/as80n8dwnwtwqsc/IMG_0258.PNG?raw=1"
+  },
+  {
+    "name": "水晶蹄膀",
+    "recipes": [
+      "肉",
+      "醬料",
+      "食用油"
+    ],
+    "recipeObj": {
+      "肉": "2",
+      "醬料": "1",
+      "食用油": "1"
+    },
+    "usages": [
+      "傷害加成",
+      "暴擊減免",
+      "射速增加"
+    ],
+    "usageObj": {
+      "傷害加成": "提升對感染單位傷害",
+      "暴擊減免": "提升免爆",
+      "射速增加": "提升射速"
+    },
+    "image": "https://www.dropbox.com/s/955ga1tltioen1l/IMG_0393.png?raw=1"
+  },
+  {
+    "name": "大米肉丸子",
+    "recipes": [
+      "調料",
+      "肉",
+      "大米"
+    ],
+    "recipeObj": {
+      "調料": "1",
+      "肉": "2",
+      "大米": "1"
+    },
+    "usages": [
+      "傷害加成",
+      "抗惡劣環境",
+      "奔跑消耗體力減少"
+    ],
+    "usageObj": {
+      "傷害加成": "提升對野生動物傷害",
+      "抗惡劣環境": "提升沙塵暴抵抗力",
+      "奔跑消耗體力減少": "提升穩定性"
+    },
+    "image": "https://www.dropbox.com/s/oh3sgvzpv0ex666/IMG_0389.png?raw=1"
+  },
+  {
+    "name": "玉米蘿蔔大骨湯",
+    "recipes": [
+      "肉",
+      "玉米",
+      "胡蘿蔔"
+    ],
+    "recipeObj": {
+      "肉": "1",
+      "玉米": "1",
+      "胡蘿蔔": "2"
+    },
+    "usages": [
+      "回復血量",
+      "暴擊減免",
+      "生命上限"
+    ],
+    "usageObj": {
+      "回復血量": "持續回復血量",
+      "暴擊減免": "提升免爆",
+      "生命上限": "提升血量上限"
+    },
+    "image": "https://www.dropbox.com/s/s44q66usr6b1055/IMG_0467.png?raw=1"
+  },
+  {
+    "name": "排骨海帶湯",
+    "recipes": [
+      "蔬菜",
+      "肉",
+      "調料"
+    ],
+    "recipeObj": {
+      "蔬菜": "1",
+      "肉": "2",
+      "調料": "1"
+    },
+    "usages": [
+      "回復血量",
+      "暴擊減免"
+    ],
+    "usageObj": {
+      "回復血量": "生命持續恢復",
+      "暴擊減免": "生存適用"
+    },
+    "image": "https://www.dropbox.com/s/of9tom7rq78f8tn/IMG_0395.png?raw=1"
+  },
+  {
+    "name": "香煎芙蓉蛋",
+    "recipes": [
+      "肉",
+      "禽蛋",
+      "蘑菇",
+      "蔬菜"
+    ],
+    "recipeObj": {
+      "肉": "1",
+      "禽蛋": "1",
+      "蘑菇": "1",
+      "蔬菜": "1"
+    },
+    "usages": [
+      "熟練度獲取",
+      "攜帶彈藥量",
+      "採集暴擊"
+    ],
+    "usageObj": {
+      "熟練度獲取": "提升戰鬥熟練度獲取效率",
+      "攜帶彈藥量": "提升攜帶彈藥量上限",
+      "採集暴擊": "提升採麻副資源暴擊率"
+    },
+    "image": "https://www.dropbox.com/s/o3sjicajn1faw0r/IMG_0468.png?raw=1"
+  },
+  {
+    "name": "鳳梨咕咾肉",
+    "recipes": [
+      "糖",
+      "肉",
+      "鳳梨",
+      "特殊備註"
+    ],
+    "recipeObj": {
+      "糖": "1",
+      "肉": "2",
+      "鳳梨": "1",
+      "特殊備註": "需要找NPC夏冬涼購買"
+    },
+    "usages": [
+      "爆頭傷害",
+      "移速加成",
+      "生命上限",
+      "穩定性"
+    ],
+    "usageObj": {
+      "爆頭傷害": "提升爆頭傷害",
+      "移速加成": "提升移動速度",
+      "生命上限": "提升氣力上限添加率",
+      "穩定性": "提升穩定性"
+    },
+    "image": "https://www.dropbox.com/s/77nccputte4qc4l/coming_soon.png?raw=1"
+  },
+  {
+    "name": "百花魚肚",
+    "recipes": [
+      "魚類",
+      "蔬菜",
+      "食用油"
+    ],
+    "recipeObj": {
+      "魚類": "2",
+      "蔬菜": "1",
+      "食用油": "1"
+    },
+    "usages": [
+      "採集速度",
+      "採集暴擊",
+      "傷害加成",
+      "移速加成"
+    ],
+    "usageObj": {
+      "採集速度": "採集時間縮減",
+      "採集暴擊": "採麻資源暴擊率",
+      "傷害加成": "提升對野生動物傷害",
+      "移速加成": "提升移動速度"
+    },
+    "image": " https://www.dropbox.com/s/ayzdo62jmrnw6c4/IMG_0363.png?raw=1"
+  },
+  {
+    "name": "咖哩魚蛋",
+    "recipes": [
+      "魚類",
+      "蔬菜",
+      "醬料"
+    ],
+    "recipeObj": {
+      "魚類": "1",
+      "蔬菜": "2",
+      "醬料": "1"
+    },
+    "usages": [
+      "採集速度",
+      "採集暴擊"
+    ],
+    "usageObj": {
+      "採集速度": "提升採麻效率",
+      "採集暴擊": "提升採麻主資源暴擊率"
+    },
+    "image": "https://www.dropbox.com/s/rp22xjjh28o8z57/IMG_0446.png?raw=1"
+  },
+  {
+    "name": "天婦羅",
+    "recipes": [
+      "魚類",
+      "麵粉",
+      "禽蛋",
+      "食用油"
+    ],
+    "recipeObj": {
+      "魚類": "1",
+      "麵粉": "1",
+      "禽蛋": "1",
+      "食用油": "1"
+    },
+    "usages": [
+      "採集速度",
+      "採集暴擊"
+    ],
+    "usageObj": {
+      "採集速度": "提升採麻效率",
+      "採集暴擊": "提升採麻副資源暴擊率"
+    },
+    "image": "https://www.dropbox.com/s/gq5f5q221gw720w/IMG_0451.png?raw=1"
+  },
+  {
+    "name": "關東煮",
+    "recipes": [
+      "肉",
+      "蔬菜",
+      "蘑菇",
+      "豆腐"
+    ],
+    "recipeObj": {
+      "肉": "1",
+      "蔬菜": "1",
+      "蘑菇": "1",
+      "豆腐": "1"
+    },
+    "usages": [
+      "傷害加成",
+      "奔跑消耗體力減少"
+    ],
+    "usageObj": {
+      "傷害加成": "提升對感染者傷害",
+      "奔跑消耗體力減少": "降低奔跑體力消耗"
+    },
+    "image": "https://www.dropbox.com/s/ad04uqik8cv43zi/IMG_0437.png?raw=1"
+  },
+  {
+    "name": "沙嗲",
+    "recipes": [
+      "肉",
+      "醬料"
+    ],
+    "recipeObj": {
+      "肉": "3",
+      "醬料": "1"
+    },
+    "usages": [
+      "換彈加速"
+    ],
+    "usageObj": {
+      "換彈加速": "提升換彈速度"
+    },
+    "image": "https://www.dropbox.com/s/jx10y0vcl0acrde/IMG_0444.png?raw=1"
+  },
+  {
+    "name": "蕉葉柳魚",
+    "recipes": [
+      "魚類",
+      "蔬菜",
+      "調料"
+    ],
+    "recipeObj": {
+      "魚類": "1",
+      "蔬菜": "2",
+      "調料": "1"
+    },
+    "usages": [
+      "採集暴擊"
+    ],
+    "usageObj": {
+      "採集暴擊": "提升伐木、挖掘、採麻主資源暴擊率"
+    },
+    "image": "https://www.dropbox.com/s/t52dags9hbpmx6s/IMG_0442.png?raw=1"
+  },
+  {
+    "name": "冬陽功湯",
+    "recipes": [
+      "蔥薑蒜",
+      "明蝦",
+      "蘑菇"
+    ],
+    "recipeObj": {
+      "蔥薑蒜": "1",
+      "明蝦": "2",
+      "蘑菇": "1"
+    },
+    "usages": [
+      "暴擊率",
+      "抗惡劣環境"
+    ],
+    "usageObj": {
+      "暴擊率": "提升暴擊率",
+      "抗惡劣環境": "提升沙塵暴抵抗力"
+    },
+    "image": "https://www.dropbox.com/s/h1f1cczfetiwdwp/IMG_0447.png?raw=1"
+  },
+  {
+    "name": "咖哩炒蟹",
+    "recipes": [
+      "特定海鮮類",
+      "醬料",
+      "食用油"
+    ],
+    "recipeObj": {
+      "特定海鮮類": "蟹類: 2",
+      "醬料": "1",
+      "食用油": "1"
+    },
+    "usages": [
+      "採集暴擊"
+    ],
+    "usageObj": {
+      "採集暴擊": "提升伐木、挖掘、採麻副資源暴擊率"
+    },
+    "image": "https://www.dropbox.com/s/nixjafymch1y2ks/IMG_0443.png?raw=1"
+  },
+  {
+    "name": "蒸烤蔬菜",
+    "recipes": [
+      "蔬菜"
+    ],
+    "recipeObj": {
+      "蔬菜": "4"
+    },
+    "usages": [
+      "無特殊屬性"
+    ],
+    "usageObj": {
+      "無特殊屬性": "充飢"
+    },
+    "image": "https://www.dropbox.com/s/pi12g2kq4vr7ngs/IMG_0268.png?raw=1"
+  },
+  {
+    "name": "熱水",
+    "recipes": [
+      "冰塊"
+    ],
+    "recipeObj": {
+      "冰塊": "4"
+    },
+    "usages": [
+      "改變體溫",
+      "去除感冒"
+    ],
+    "usageObj": {
+      "改變體溫": "回復體溫",
+      "去除感冒": "去除感冒"
+    },
+    "image": "https://www.dropbox.com/s/n0yb9jntx6nm0o1/IMG_0267.png?raw=1"
+  },
+  {
+    "name": "烤蘑菇",
+    "recipes": [
+      "蘑菇",
+      "特殊備註"
+    ],
+    "recipeObj": {
+      "蘑菇": "4",
+      "特殊備註": "不能全都是松茸"
+    },
+    "usages": [
+      "回復健康值"
+    ],
+    "usageObj": {
+      "回復健康值": "回復健康值"
+    },
+    "image": "https://www.dropbox.com/s/p97207civ8y11c6/IMG_0269.png?raw=1"
+  },
+  {
+    "name": "辣椒醬",
+    "recipes": [
+      "朝天椒"
+    ],
+    "recipeObj": {
+      "朝天椒": "4"
+    },
+    "usages": [
+      "無特殊屬性",
+      "改變體溫"
+    ],
+    "usageObj": {
+      "無特殊屬性": "充飢",
+      "改變體溫": "提升體溫"
+    },
+    "image": "https://www.dropbox.com/s/0ygv2foiwh8eksb/IMG_0227.PNG?raw=1"
+  },
+  {
+    "name": "烤玉米棒",
+    "recipes": [
+      "玉米"
+    ],
+    "recipeObj": {
+      "玉米": "4"
+    },
+    "usages": [
+      "無特殊屬性"
+    ],
+    "usageObj": {
+      "無特殊屬性": "充飢"
+    },
+    "image": "https://www.dropbox.com/s/fzdxuhvobew04hp/IMG_0366.png?raw=1"
+  },
+  {
+    "name": "蔬果沙拉",
+    "recipes": [
+      "蔬菜",
+      "水果"
+    ],
+    "recipeObj": {
+      "蔬菜": "2",
+      "水果": "2"
+    },
+    "usages": [
+      "採集暴擊"
+    ],
+    "usageObj": {
+      "採集暴擊": "小幅提升採麻暴擊"
+    },
+    "image": "https://www.dropbox.com/s/inne2aogurue88m/IMG_0271.png?raw=1"
+  },
+  {
+    "name": "蘑菇濃湯",
+    "recipes": [
+      "蘑菇",
+      "牛奶"
+    ],
+    "recipeObj": {
+      "蘑菇": "2",
+      "牛奶": "2"
+    },
+    "usages": [
+      "回復健康值"
+    ],
+    "usageObj": {
+      "回復健康值": "大幅回復健康值"
+    },
+    "image": "https://www.dropbox.com/s/s7rc1dhf2kw5slr/IMG_0321.png?raw=1"
+  },
+  {
+    "name": "蘑菇炒辣椒",
+    "recipes": [
+      "蘑菇",
+      "朝天椒"
+    ],
+    "recipeObj": {
+      "蘑菇": "2",
+      "朝天椒": "2"
+    },
+    "usages": [
+      "無特殊屬性"
+    ],
+    "usageObj": {
+      "無特殊屬性": "充飢"
+    },
+    "image": "https://www.dropbox.com/s/29vu0l4wv70drlv/IMG_0361.png?raw=1"
+  },
+  {
+    "name": "香辣水煮玉米",
+    "recipes": [
+      "玉米",
+      "朝天椒"
+    ],
+    "recipeObj": {
+      "玉米": "2",
+      "朝天椒": "2"
+    },
+    "usages": [
+      "暴擊率"
+    ],
+    "usageObj": {
+      "暴擊率": "提升暴擊率"
+    },
+    "image": "https://www.dropbox.com/s/wmnph2o6gzd5ox3/IMG_0235.PNG?raw=1"
+  },
+  {
+    "name": "黃金玉米烙",
+    "recipes": [
+      "蜂蜜",
+      "玉米"
+    ],
+    "recipeObj": {
+      "蜂蜜": "2",
+      "玉米": "2"
+    },
+    "usages": [
+      "回復血量"
+    ],
+    "usageObj": {
+      "回復血量": "回復血量"
+    },
+    "image": "https://www.dropbox.com/s/ou4e7sqsj4t65tz/IMG_0371.png?raw=1"
+  },
+  {
+    "name": "椰香玉米濃湯",
+    "recipes": [
+      "椰子",
+      "玉米"
+    ],
+    "recipeObj": {
+      "椰子": "2",
+      "玉米": "2"
+    },
+    "usages": [
+      "改變體溫"
+    ],
+    "usageObj": {
+      "改變體溫": "提升體溫"
+    },
+    "image": "https://www.dropbox.com/s/oogo9klr6jo2502/IMG_0204.PNG?raw=1"
+  },
+  {
+    "name": "黃油煎松茸",
+    "recipes": [
+      "松茸"
+    ],
+    "recipeObj": {
+      "松茸": "4"
+    },
+    "usages": [
+      "回復健康值"
+    ],
+    "usageObj": {
+      "回復健康值": "回復健康值"
+    },
+    "image": "https://www.dropbox.com/s/l3qldalwhz5btmx/IMG_0302.png?raw=1"
+  },
+  {
+    "name": "炸南瓜條",
+    "recipes": [
+      "南瓜",
+      "麵粉",
+      "牛奶"
+    ],
+    "recipeObj": {
+      "南瓜": "2",
+      "麵粉": "1",
+      "牛奶": "1"
+    },
+    "usages": [
+      "無特殊屬性"
+    ],
+    "usageObj": {
+      "無特殊屬性": "充飢"
+    },
+    "image": "https://www.dropbox.com/s/66lgaano41bua62/IMG_0322.png?raw=1"
+  },
+  {
+    "name": "雜菌湯",
+    "recipes": [
+      "蔬菜",
+      "洞穴菇",
+      "草菇",
+      "松茸"
+    ],
+    "recipeObj": {
+      "蔬菜": "1",
+      "洞穴菇": "1",
+      "草菇": "1",
+      "松茸": "1"
+    },
+    "usages": [
+      "改變體溫",
+      "去除感冒"
+    ],
+    "usageObj": {
+      "改變體溫": "大幅提高體溫",
+      "去除感冒": "去除感冒"
+    },
+    "image": "https://www.dropbox.com/s/acbm0ypvyici82e/IMG_0334.png?raw=1"
+  },
+  {
+    "name": "辣炒西瓜皮",
+    "recipes": [
+      "朝天椒",
+      "西瓜"
+    ],
+    "recipeObj": {
+      "朝天椒": "2",
+      "西瓜": "2"
+    },
+    "usages": [
+      "無特殊屬性"
+    ],
+    "usageObj": {
+      "無特殊屬性": "充飢"
+    },
+    "image": "https://www.dropbox.com/s/und5ms1huxl49y7/IMG_0237.PNG?raw=1"
+  },
+  {
+    "name": "胡蘿蔔玉米汁",
+    "recipes": [
+      "玉米",
+      "胡蘿蔔"
+    ],
+    "recipeObj": {
+      "玉米": "2",
+      "胡蘿蔔": "2"
+    },
+    "usages": [
+      "無特殊屬性"
+    ],
+    "usageObj": {
+      "無特殊屬性": "充飢"
+    },
+    "image": "https://www.dropbox.com/s/6cisrbyliuyfkvq/IMG_0362.png?raw=1"
+  },
+  {
+    "name": "玉米南瓜粥",
+    "recipes": [
+      "玉米",
+      "南瓜"
+    ],
+    "recipeObj": {
+      "玉米": "3",
+      "南瓜": "1"
+    },
+    "usages": [
+      "回復血量"
+    ],
+    "usageObj": {
+      "回復血量": "持續回復血量"
+    },
+    "image": "https://www.dropbox.com/s/i8unep1wt4dwhr8/IMG_0405.png?raw=1"
+  },
+  {
+    "name": "麻婆豆腐",
+    "recipes": [
+      "豆腐",
+      "朝天椒",
+      "蔥薑蒜"
+    ],
+    "recipeObj": {
+      "豆腐": "2",
+      "朝天椒": "1",
+      "蔥薑蒜": "1"
+    },
+    "usages": [
+      "暴擊率",
+      "生命上限",
+      "穩定性"
+    ],
+    "usageObj": {
+      "暴擊率": "提升暴擊率",
+      "生命上限": "提升氣力上限添加率",
+      "穩定性": "戰鬥適用"
+    },
+    "image": "https://www.dropbox.com/s/r3znzb10hfjxhk5/IMG_0236.PNG?raw=1"
+  },
+  {
+    "name": "三大炮",
+    "recipes": [
+      "蜂蜜",
+      "芝麻",
+      "大米",
+      "特殊備註"
+    ],
+    "recipeObj": {
+      "蜂蜜": "1",
+      "芝麻": "1",
+      "大米": "2",
+      "特殊備註": "芝麻為元宵節限定食材"
+    },
+    "usages": [
+      "抗惡劣環境",
+      "採集暴擊",
+      "採集速度"
+    ],
+    "usageObj": {
+      "抗惡劣環境": "提升暴風雪抵抗力",
+      "採集暴擊": "提升採麻資源暴擊率",
+      "採集速度": "採集時間縮短"
+    },
+    "image": "https://www.dropbox.com/s/1y3dt3fd3hpxzua/IMG_0546.png?raw=1",
+    "newDish": true
+  },
+  {
+    "name": "冒菜",
+    "recipes": [
+      "水果",
+      "蘑菇",
+      "蔬菜",
+      "蔥薑蒜"
+    ],
+    "recipeObj": {
+      "水果": "1",
+      "蘑菇": "1",
+      "蔬菜": "1",
+      "蔥薑蒜": "1"
+    },
+    "usages": [
+      "採集暴擊",
+      "移速加成"
+    ],
+    "usageObj": {
+      "採集暴擊": "提升挖掘資源暴擊率/挖掘副資源暴擊率",
+      "移速加成": "提升移動速度"
+    },
+    "image": "https://www.dropbox.com/s/zjwtxibq49n6x2l/IMG_0196.PNG?raw=1"
+  },
+  {
+    "name": "酒鬼花生",
+    "recipes": [
+      "朝天椒",
+      "調料",
+      "花生",
+      "特殊備註"
+    ],
+    "recipeObj": {
+      "朝天椒": "1",
+      "調料": "1",
+      "花生": "2",
+      "特殊備註": "花生為元宵節限定食材"
+    },
+    "usages": [
+      "體力恢復加速",
+      "移速加成",
+      "暴擊率"
+    ],
+    "usageObj": {
+      "體力恢復加速": "體力恢復速度增加",
+      "移速加成": "提升移動速度",
+      "暴擊率": "提升暴擊"
+    },
+    "image": "https://www.dropbox.com/s/pbxi92n3gi3fhec/IMG_0549.png?raw=1",
+    "newDish": true
+  },
+  {
+    "name": "姜湯",
+    "recipes": [
+      "蜂蜜",
+      "冰塊",
+      "蔥薑蒜"
+    ],
+    "recipeObj": {
+      "蜂蜜": "1",
+      "牛奶": "1",
+      "蔥薑蒜": "2"
+    },
+    "usages": [
+      "奔跑消耗體力減少",
+      "游泳速度",
+      "採集速度"
+    ],
+    "usageObj": {
+      "奔跑消耗體力減少": "奔跑體力消耗減少",
+      "游泳速度": "提升游泳速度",
+      "採集速度": "提升挖掘速度"
+    },
+    "image": "https://www.dropbox.com/s/4z13n72p9ip0jl1/IMG_0470.png?raw=1"
+  },
+  {
+    "name": "鼎邊銼",
+    "recipes": [
+      "肉",
+      "蔬菜",
+      "蘑菇",
+      "大米"
+    ],
+    "recipeObj": {
+      "肉": "1",
+      "蔬菜": "1",
+      "蘑菇": "1",
+      "大米": "1"
+    },
+    "usages": [
+      "採集速度"
+    ],
+    "usageObj": {
+      "採集速度": "提升伐木、挖掘、採麻效率"
+    },
+    "image": "https://www.dropbox.com/s/e1ggaeqrp50gajt/IMG_0440.png?raw=1"
+  },
+  {
+    "name": "蔬菜壽司",
+    "recipes": [
+      "蔬菜",
+      "大米"
+    ],
+    "recipeObj": {
+      "蔬菜": "3",
+      "大米": "1"
+    },
+    "usages": [
+      "體力恢復加速",
+      "冷兵器揮擊速度"
+    ],
+    "usageObj": {
+      "體力恢復加速": "體力恢復速度增加",
+      "冷兵器揮擊速度": "提升揮砍速度"
+    },
+    "image": "https://www.dropbox.com/s/v3jb8cxer2f4y8t/IMG_0439.png?raw=1"
+  }
+]
